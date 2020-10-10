@@ -1,5 +1,5 @@
 package restaurant;
 
-public class Menu extends Restaurant {
+public class Menu {
     
 }

@@ -1,5 +1,5 @@
 package restaurant;
 
-public class Customer extends Restaurant {
+public class Customer  {
     
 }
