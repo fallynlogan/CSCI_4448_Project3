@@ -1,6 +1,6 @@
 package restaurant;
 
-public class PastryRoll extends Food {
+public class PastryRoll extends FoodItem {
     public int count = 30;
 
     public PastryRoll()

@@ -20,6 +20,6 @@ public class Main {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        Restaurant ourRestaurant = new Restaurant(numDays);
+        Store ourStore = new Store(numDays);
     }
 }
