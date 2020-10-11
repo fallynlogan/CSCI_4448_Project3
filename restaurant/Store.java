@@ -29,7 +29,7 @@ public class Store {
                 System.out.println(customers[j].getName() + " the " + customers[j].getClass().getSimpleName() + " has arrived at the store!");
                 System.out.println("The number of spring rolls at the beginning of Day " + i + " is " + inventory.get("numSprRolls").size());
                 System.out.println("The number of egg rolls at the beginning of Day " + i + " is " + inventory.get("numEggRolls").size());
-                System.out.println("The number of pasrty rolls at the beginning of Day " + i + " is " + inventory.get("numPastryRolls").size());
+                System.out.println("The number of pastry rolls at the beginning of Day " + i + " is " + inventory.get("numPastryRolls").size());
                 System.out.println("The number of sausage rolls at the beginning of Day " + i + " is " + inventory.get("numSausageRolls").size());
                 System.out.println("The number of jelly rolls at the beginning of Day " + i + " is " + inventory.get("numJellyRolls").size());
             }

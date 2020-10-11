@@ -1,10 +1,10 @@
 package restaurant;
 
-public class FoodItem {
+public abstract class FoodItem {
     protected String foodName;
     protected double foodPrice;
-    protected int extraSaucPrice;
-    protected int extraFilPrice;
+    protected int extraSaucePrice;
+    protected int extraFillPrice;
     protected int extraTopPrice;
 
     public FoodItem(String rName, double rollPrice){
@@ -23,11 +23,11 @@ public class FoodItem {
     }
 
     public int getExtraSaucPrice(){
-        return extraSaucPrice;
+        return extraSaucePrice;
     }
 
     public int getExtraFilPrice(){
-        return extraFilPrice;
+        return extraFillPrice;
     }
 
     public int getExtraTopPrice(){
