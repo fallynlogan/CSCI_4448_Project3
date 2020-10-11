@@ -2,11 +2,11 @@ package restaurant;
 
 public class Store {
 
-    int numSpring;
-    int numEgg;
-    int numPastry;
-    int numSausage;
-    int numJelly;
+    public int numSpring;
+    public int numEgg;
+    public int numPastry;
+    public int numSausage;
+    public int numJelly;
 
     public Store(int numDays)
     {
@@ -23,6 +23,7 @@ public class Store {
         for(int i=1 ; i<=numDays ; i++)
         {
             System.out.println("Today is Day " + i + ".");
+
         }
 
     }
