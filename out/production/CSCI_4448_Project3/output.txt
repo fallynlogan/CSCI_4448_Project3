@@ -1,8 +1,92 @@
 Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin.
-Today is Day 1
-Today is Day 2
-Today is Day 3
-Today is Day 4
-Today is Day 5
-Today is Day 6
-Today is Day 7
+Today is Day 1.
+Naomi has arrived at the store!
+Martin has arrived at the store!
+Wendy has arrived at the store!
+Mason has arrived at the store!
+Boone has arrived at the store!
+Oliver has arrived at the store!
+Ellie has arrived at the store!
+Brandon has arrived at the store!
+Mary has arrived at the store!
+Cathy has arrived at the store!
+James has arrived at the store!
+Chad has arrived at the store!
+Adam has arrived at the store!
+Today is Day 2.
+Amy has arrived at the store!
+Wendy has arrived at the store!
+Boone has arrived at the store!
+Jane has arrived at the store!
+Mia has arrived at the store!
+Martin has arrived at the store!
+Naomi has arrived at the store!
+Brandon has arrived at the store!
+James has arrived at the store!
+Chad has arrived at the store!
+Ellie has arrived at the store!
+Today is Day 3.
+Naomi has arrived at the store!
+James has arrived at the store!
+Jane has arrived at the store!
+Boone has arrived at the store!
+Susan has arrived at the store!
+Amy has arrived at the store!
+Mason has arrived at the store!
+Mary has arrived at the store!
+Wendy has arrived at the store!
+Karen has arrived at the store!
+Mia has arrived at the store!
+Martin has arrived at the store!
+Oliver has arrived at the store!
+Today is Day 4.
+Wendy has arrived at the store!
+Mason has arrived at the store!
+Adam has arrived at the store!
+Mia has arrived at the store!
+Jane has arrived at the store!
+James has arrived at the store!
+Cathy has arrived at the store!
+Oliver has arrived at the store!
+Naomi has arrived at the store!
+Mary has arrived at the store!
+Chad has arrived at the store!
+Boone has arrived at the store!
+Amy has arrived at the store!
+Ellie has arrived at the store!
+Today is Day 5.
+Martin has arrived at the store!
+Adam has arrived at the store!
+Ellie has arrived at the store!
+Karen has arrived at the store!
+Susan has arrived at the store!
+Naomi has arrived at the store!
+Oliver has arrived at the store!
+Amy has arrived at the store!
+Jane has arrived at the store!
+Mary has arrived at the store!
+Cathy has arrived at the store!
+James has arrived at the store!
+Today is Day 6.
+Mia has arrived at the store!
+Brandon has arrived at the store!
+Mary has arrived at the store!
+Wendy has arrived at the store!
+Boone has arrived at the store!
+Susan has arrived at the store!
+Chad has arrived at the store!
+Ellie has arrived at the store!
+Mason has arrived at the store!
+Oliver has arrived at the store!
+James has arrived at the store!
+Today is Day 7.
+Chad has arrived at the store!
+Boone has arrived at the store!
+Wendy has arrived at the store!
+Ellie has arrived at the store!
+Oliver has arrived at the store!
+Susan has arrived at the store!
+Naomi has arrived at the store!
+Karen has arrived at the store!
+Mia has arrived at the store!
+Mary has arrived at the store!

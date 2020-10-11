@@ -5,4 +5,7 @@ public class Customer{
     public Customer(String n) {
         name = n;
     }
+    public String getName(){
+        return name;
+    }
 }
