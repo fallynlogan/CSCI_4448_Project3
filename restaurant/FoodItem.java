@@ -2,26 +2,22 @@ package restaurant;
 
 public class FoodItem {
     protected String foodName;
-    protected int foodPrice;
+    protected double foodPrice;
     protected int extraSaucPrice;
     protected int extraFilPrice;
     protected int extraTopPrice;
 
-    public FoodItem(String rName, int rollPrice, int xSaucPr, int xFilPr, int xTopPr){
+    public FoodItem(String rName, double rollPrice){
         this.foodName = rName;
         this.foodPrice = rollPrice;
-        //not sure if necessary
-        this.extraSaucPrice = xSaucPr;
-        this.extraFilPrice = xFilPr;
-        this.extraTopPrice = xTopPr;
     }
 
-    /*
+    
 
-    public int getFoodPrice(){
+    public double getFoodPrice(){
         return foodPrice;
     }
-
+    /*
     public String getName(){
         return this.foodName;
     }

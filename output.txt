@@ -1,369 +1,719 @@
 Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin.
 Today is Day 1.
-Brandon has arrived at the store!
-Cathy has arrived at the store!
-Wendy has arrived at the store!
-Jane has arrived at the store!
-James has arrived at the store!
-Adam has arrived at the store!
-Mia has arrived at the store!
+Cathy the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 1 is 30
+The number of egg rolls at the beginning of Day 1 is 30
+The number of pasrty rolls at the beginning of Day 1 is 30
+The number of sausage rolls at the beginning of Day 1 is 30
+The number of jelly rolls at the beginning of Day 1 is 30
+Mary the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 1 is 30
+The number of egg rolls at the beginning of Day 1 is 30
+The number of pasrty rolls at the beginning of Day 1 is 30
+The number of sausage rolls at the beginning of Day 1 is 30
+The number of jelly rolls at the beginning of Day 1 is 30
+Wendy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 1 is 30
+The number of egg rolls at the beginning of Day 1 is 30
+The number of pasrty rolls at the beginning of Day 1 is 30
+The number of sausage rolls at the beginning of Day 1 is 30
+The number of jelly rolls at the beginning of Day 1 is 30
+Mason the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 1 is 30
+The number of egg rolls at the beginning of Day 1 is 30
+The number of pasrty rolls at the beginning of Day 1 is 30
+The number of sausage rolls at the beginning of Day 1 is 30
+The number of jelly rolls at the beginning of Day 1 is 30
 Today is Day 2.
-Mason has arrived at the store!
-Adam has arrived at the store!
-Oliver has arrived at the store!
-Wendy has arrived at the store!
-James has arrived at the store!
-Mia has arrived at the store!
-Susan has arrived at the store!
-Martin has arrived at the store!
-Chad has arrived at the store!
-Amy has arrived at the store!
-Karen has arrived at the store!
-Naomi has arrived at the store!
-Brandon has arrived at the store!
-Cathy has arrived at the store!
-Ellie has arrived at the store!
+Boone the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Naomi the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Mason the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Jane the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+James the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Karen the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Adam the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Oliver the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Mary the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Susan the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Amy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Wendy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
+Mia the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 30
+The number of egg rolls at the beginning of Day 2 is 30
+The number of pasrty rolls at the beginning of Day 2 is 30
+The number of sausage rolls at the beginning of Day 2 is 30
+The number of jelly rolls at the beginning of Day 2 is 30
 Today is Day 3.
-Oliver has arrived at the store!
-Karen has arrived at the store!
-Jane has arrived at the store!
-Ellie has arrived at the store!
-Adam has arrived at the store!
-Chad has arrived at the store!
-Amy has arrived at the store!
-Martin has arrived at the store!
-Wendy has arrived at the store!
+Susan the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Boone the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Martin the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Karen the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Oliver the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Mia the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Mary the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Amy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Brandon the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Cathy the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Wendy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Chad the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Ellie the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Mason the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Jane the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+Naomi the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
+James the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 3 is 30
+The number of egg rolls at the beginning of Day 3 is 30
+The number of pasrty rolls at the beginning of Day 3 is 30
+The number of sausage rolls at the beginning of Day 3 is 30
+The number of jelly rolls at the beginning of Day 3 is 30
 Today is Day 4.
-Ellie has arrived at the store!
-Boone has arrived at the store!
-Susan has arrived at the store!
-James has arrived at the store!
-Oliver has arrived at the store!
-Mia has arrived at the store!
-Brandon has arrived at the store!
-Chad has arrived at the store!
-Karen has arrived at the store!
-Cathy has arrived at the store!
-Adam has arrived at the store!
-Naomi has arrived at the store!
-Wendy has arrived at the store!
-Martin has arrived at the store!
+Oliver the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Martin the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Mary the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Cathy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Mia the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Jane the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Susan the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Ellie the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Karen the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Mason the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Boone the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Adam the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
+Naomi the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 4 is 30
+The number of egg rolls at the beginning of Day 4 is 30
+The number of pasrty rolls at the beginning of Day 4 is 30
+The number of sausage rolls at the beginning of Day 4 is 30
+The number of jelly rolls at the beginning of Day 4 is 30
 Today is Day 5.
-Amy has arrived at the store!
-Oliver has arrived at the store!
-Cathy has arrived at the store!
-Karen has arrived at the store!
+Adam the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 5 is 30
+The number of egg rolls at the beginning of Day 5 is 30
+The number of pasrty rolls at the beginning of Day 5 is 30
+The number of sausage rolls at the beginning of Day 5 is 30
+The number of jelly rolls at the beginning of Day 5 is 30
+Naomi the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 5 is 30
+The number of egg rolls at the beginning of Day 5 is 30
+The number of pasrty rolls at the beginning of Day 5 is 30
+The number of sausage rolls at the beginning of Day 5 is 30
+The number of jelly rolls at the beginning of Day 5 is 30
+Amy the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 5 is 30
+The number of egg rolls at the beginning of Day 5 is 30
+The number of pasrty rolls at the beginning of Day 5 is 30
+The number of sausage rolls at the beginning of Day 5 is 30
+The number of jelly rolls at the beginning of Day 5 is 30
+Oliver the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 5 is 30
+The number of egg rolls at the beginning of Day 5 is 30
+The number of pasrty rolls at the beginning of Day 5 is 30
+The number of sausage rolls at the beginning of Day 5 is 30
+The number of jelly rolls at the beginning of Day 5 is 30
+Mary the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 5 is 30
+The number of egg rolls at the beginning of Day 5 is 30
+The number of pasrty rolls at the beginning of Day 5 is 30
+The number of sausage rolls at the beginning of Day 5 is 30
+The number of jelly rolls at the beginning of Day 5 is 30
 Today is Day 6.
-Karen has arrived at the store!
-Mason has arrived at the store!
-Mary has arrived at the store!
-Amy has arrived at the store!
-Brandon has arrived at the store!
-Susan has arrived at the store!
-Ellie has arrived at the store!
-Oliver has arrived at the store!
-Naomi has arrived at the store!
-Boone has arrived at the store!
-Wendy has arrived at the store!
-Mia has arrived at the store!
-Martin has arrived at the store!
-Adam has arrived at the store!
-James has arrived at the store!
-Cathy has arrived at the store!
+Mia the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Adam the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Martin the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Mason the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Cathy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+James the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Jane the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Naomi the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Chad the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Mary the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Ellie the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Amy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Brandon the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Oliver the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Karen the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Susan the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
+Wendy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 6 is 30
+The number of egg rolls at the beginning of Day 6 is 30
+The number of pasrty rolls at the beginning of Day 6 is 30
+The number of sausage rolls at the beginning of Day 6 is 30
+The number of jelly rolls at the beginning of Day 6 is 30
 Today is Day 7.
-Amy has arrived at the store!
-Jane has arrived at the store!
-Adam has arrived at the store!
-Brandon has arrived at the store!
-Mia has arrived at the store!
-Martin has arrived at the store!
-Oliver has arrived at the store!
-Mary has arrived at the store!
-Ellie has arrived at the store!
-Wendy has arrived at the store!
-Chad has arrived at the store!
-Naomi has arrived at the store!
-Boone has arrived at the store!
+Amy the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+Adam the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+Mason the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+Jane the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+Susan the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+Oliver the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+James the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+Martin the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+Mia the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+Brandon the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+Wendy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
+Naomi the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 7 is 30
+The number of egg rolls at the beginning of Day 7 is 30
+The number of pasrty rolls at the beginning of Day 7 is 30
+The number of sausage rolls at the beginning of Day 7 is 30
+The number of jelly rolls at the beginning of Day 7 is 30
 Today is Day 8.
-James has arrived at the store!
-Naomi has arrived at the store!
-Cathy has arrived at the store!
-Ellie has arrived at the store!
-Brandon has arrived at the store!
-Jane has arrived at the store!
-Amy has arrived at the store!
-Mason has arrived at the store!
-Chad has arrived at the store!
-Mia has arrived at the store!
-Susan has arrived at the store!
+Susan the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
+Mary the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
+Naomi the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
+Ellie the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
+Jane the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
+Boone the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
+Amy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
+Karen the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
+James the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
+Mia the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
+Wendy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 8 is 30
+The number of egg rolls at the beginning of Day 8 is 30
+The number of pasrty rolls at the beginning of Day 8 is 30
+The number of sausage rolls at the beginning of Day 8 is 30
+The number of jelly rolls at the beginning of Day 8 is 30
 Today is Day 9.
-Oliver has arrived at the store!
-Amy has arrived at the store!
-Naomi has arrived at the store!
-Martin has arrived at the store!
-Jane has arrived at the store!
-Karen has arrived at the store!
-Boone has arrived at the store!
-Susan has arrived at the store!
-Adam has arrived at the store!
-Mason has arrived at the store!
+Boone the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Adam the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Martin the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Ellie the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Wendy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Mason the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Karen the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Susan the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Chad the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Oliver the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Amy the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+James the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Brandon the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
+Cathy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 9 is 30
+The number of egg rolls at the beginning of Day 9 is 30
+The number of pasrty rolls at the beginning of Day 9 is 30
+The number of sausage rolls at the beginning of Day 9 is 30
+The number of jelly rolls at the beginning of Day 9 is 30
 Today is Day 10.
-Wendy has arrived at the store!
-Oliver has arrived at the store!
-Mary has arrived at the store!
-Adam has arrived at the store!
-Naomi has arrived at the store!
-Today is Day 11.
-Susan has arrived at the store!
-Mia has arrived at the store!
-Brandon has arrived at the store!
-Boone has arrived at the store!
-Chad has arrived at the store!
-Karen has arrived at the store!
-Mason has arrived at the store!
-Mary has arrived at the store!
-Wendy has arrived at the store!
-Cathy has arrived at the store!
-James has arrived at the store!
-Ellie has arrived at the store!
-Amy has arrived at the store!
-Naomi has arrived at the store!
-Jane has arrived at the store!
-Adam has arrived at the store!
-Oliver has arrived at the store!
-Today is Day 12.
-Jane has arrived at the store!
-Brandon has arrived at the store!
-Wendy has arrived at the store!
-Amy has arrived at the store!
-Susan has arrived at the store!
-Mia has arrived at the store!
-Chad has arrived at the store!
-James has arrived at the store!
-Oliver has arrived at the store!
-Boone has arrived at the store!
-Adam has arrived at the store!
-Today is Day 13.
-Cathy has arrived at the store!
-Ellie has arrived at the store!
-Mason has arrived at the store!
-Jane has arrived at the store!
-Karen has arrived at the store!
-Mia has arrived at the store!
-James has arrived at the store!
-Brandon has arrived at the store!
-Adam has arrived at the store!
-Martin has arrived at the store!
-Amy has arrived at the store!
-Susan has arrived at the store!
-Naomi has arrived at the store!
-Oliver has arrived at the store!
-Wendy has arrived at the store!
-Mary has arrived at the store!
-Today is Day 14.
-Amy has arrived at the store!
-Karen has arrived at the store!
-Chad has arrived at the store!
-Mary has arrived at the store!
-Cathy has arrived at the store!
-Jane has arrived at the store!
-Boone has arrived at the store!
-Mason has arrived at the store!
-Martin has arrived at the store!
-Mia has arrived at the store!
-Adam has arrived at the store!
-Naomi has arrived at the store!
-Susan has arrived at the store!
-Ellie has arrived at the store!
-Today is Day 15.
-Boone has arrived at the store!
-Amy has arrived at the store!
-Brandon has arrived at the store!
-Karen has arrived at the store!
-Adam has arrived at the store!
-Oliver has arrived at the store!
-Chad has arrived at the store!
-Naomi has arrived at the store!
-Today is Day 16.
-Boone has arrived at the store!
-Mason has arrived at the store!
-Mary has arrived at the store!
-Chad has arrived at the store!
-Amy has arrived at the store!
-James has arrived at the store!
-Jane has arrived at the store!
-Adam has arrived at the store!
-Karen has arrived at the store!
-Ellie has arrived at the store!
-Cathy has arrived at the store!
-Wendy has arrived at the store!
-Naomi has arrived at the store!
-Susan has arrived at the store!
-Today is Day 17.
-Amy has arrived at the store!
-Susan has arrived at the store!
-Mason has arrived at the store!
-Adam has arrived at the store!
-Oliver has arrived at the store!
-Chad has arrived at the store!
-Brandon has arrived at the store!
-Wendy has arrived at the store!
-Jane has arrived at the store!
-Ellie has arrived at the store!
-Karen has arrived at the store!
-Mia has arrived at the store!
-Boone has arrived at the store!
-Today is Day 18.
-Boone has arrived at the store!
-Martin has arrived at the store!
-Adam has arrived at the store!
-Naomi has arrived at the store!
-Mia has arrived at the store!
-Amy has arrived at the store!
-Today is Day 19.
-Mason has arrived at the store!
-Wendy has arrived at the store!
-Martin has arrived at the store!
-Brandon has arrived at the store!
-Adam has arrived at the store!
-Susan has arrived at the store!
-Oliver has arrived at the store!
-Mia has arrived at the store!
-Jane has arrived at the store!
-James has arrived at the store!
-Mary has arrived at the store!
-Naomi has arrived at the store!
-Ellie has arrived at the store!
-Boone has arrived at the store!
-Today is Day 20.
-Wendy has arrived at the store!
-Jane has arrived at the store!
-Mia has arrived at the store!
-Boone has arrived at the store!
-Brandon has arrived at the store!
-Martin has arrived at the store!
-Mason has arrived at the store!
-Chad has arrived at the store!
-Amy has arrived at the store!
-Oliver has arrived at the store!
-Susan has arrived at the store!
-James has arrived at the store!
-Today is Day 21.
-Susan has arrived at the store!
-Naomi has arrived at the store!
-Mary has arrived at the store!
-Chad has arrived at the store!
-Brandon has arrived at the store!
-Boone has arrived at the store!
-James has arrived at the store!
-Today is Day 22.
-Susan has arrived at the store!
-Cathy has arrived at the store!
-Boone has arrived at the store!
-Adam has arrived at the store!
-Wendy has arrived at the store!
-Mary has arrived at the store!
-Naomi has arrived at the store!
-Brandon has arrived at the store!
-Mia has arrived at the store!
-Mason has arrived at the store!
-Oliver has arrived at the store!
-Chad has arrived at the store!
-Today is Day 23.
-Brandon has arrived at the store!
-Karen has arrived at the store!
-Wendy has arrived at the store!
-Mason has arrived at the store!
-Amy has arrived at the store!
-Martin has arrived at the store!
-Cathy has arrived at the store!
-Ellie has arrived at the store!
-Oliver has arrived at the store!
-Susan has arrived at the store!
-Mary has arrived at the store!
-James has arrived at the store!
-Today is Day 24.
-Boone has arrived at the store!
-Brandon has arrived at the store!
-Mary has arrived at the store!
-Ellie has arrived at the store!
-Mason has arrived at the store!
-James has arrived at the store!
-Karen has arrived at the store!
-Cathy has arrived at the store!
-Wendy has arrived at the store!
-Amy has arrived at the store!
-Chad has arrived at the store!
-Martin has arrived at the store!
-Oliver has arrived at the store!
-Today is Day 25.
-Amy has arrived at the store!
-Brandon has arrived at the store!
-Cathy has arrived at the store!
-Jane has arrived at the store!
-Oliver has arrived at the store!
-Naomi has arrived at the store!
-Mary has arrived at the store!
-Wendy has arrived at the store!
-James has arrived at the store!
-Mason has arrived at the store!
-Today is Day 26.
-Mason has arrived at the store!
-Ellie has arrived at the store!
-Naomi has arrived at the store!
-James has arrived at the store!
-Adam has arrived at the store!
-Wendy has arrived at the store!
-Karen has arrived at the store!
-Today is Day 27.
-Boone has arrived at the store!
-Amy has arrived at the store!
-Adam has arrived at the store!
-James has arrived at the store!
-Naomi has arrived at the store!
-Mary has arrived at the store!
-Ellie has arrived at the store!
-Brandon has arrived at the store!
-Oliver has arrived at the store!
-Today is Day 28.
-Chad has arrived at the store!
-Brandon has arrived at the store!
-Mia has arrived at the store!
-James has arrived at the store!
-Karen has arrived at the store!
-Jane has arrived at the store!
-Oliver has arrived at the store!
-Adam has arrived at the store!
-Martin has arrived at the store!
-Cathy has arrived at the store!
-Today is Day 29.
-Ellie has arrived at the store!
-Susan has arrived at the store!
-Amy has arrived at the store!
-Martin has arrived at the store!
-Karen has arrived at the store!
-Mia has arrived at the store!
-Brandon has arrived at the store!
-James has arrived at the store!
-Mary has arrived at the store!
-Adam has arrived at the store!
-Jane has arrived at the store!
-Chad has arrived at the store!
-Boone has arrived at the store!
-Cathy has arrived at the store!
-Oliver has arrived at the store!
-Today is Day 30.
-Susan has arrived at the store!
-Wendy has arrived at the store!
-Martin has arrived at the store!
-Mason has arrived at the store!
-Amy has arrived at the store!
-Mia has arrived at the store!
-Cathy has arrived at the store!
-Jane has arrived at the store!
-Oliver has arrived at the store!
-Adam has arrived at the store!
-Mary has arrived at the store!
-Naomi has arrived at the store!
-Boone has arrived at the store!
-Brandon has arrived at the store!
+Martin the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+Adam the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+Boone the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+Mary the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+Jane the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+Brandon the BusinessCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+Karen the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+Cathy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+Mia the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+James the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+Wendy the CasualCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30
+Amy the CateringCustomer has arrived at the store!
+The number of spring rolls at the beginning of Day 10 is 30
+The number of egg rolls at the beginning of Day 10 is 30
+The number of pasrty rolls at the beginning of Day 10 is 30
+The number of sausage rolls at the beginning of Day 10 is 30
+The number of jelly rolls at the beginning of Day 10 is 30

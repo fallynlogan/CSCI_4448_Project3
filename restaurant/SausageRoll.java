@@ -1,11 +1,10 @@
 package restaurant;
 
 public class SausageRoll extends FoodItem {
-    public int count = 30;
 
     public SausageRoll()
     {
-
+        super("Sausage Roll", 4.25);
     }
     
 }
