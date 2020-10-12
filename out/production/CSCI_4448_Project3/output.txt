@@ -1,92 +1,47 @@
 Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin.
 Today is Day 1.
-Naomi has arrived at the store!
-Martin has arrived at the store!
-Wendy has arrived at the store!
-Mason has arrived at the store!
-Boone has arrived at the store!
-Oliver has arrived at the store!
-Ellie has arrived at the store!
-Brandon has arrived at the store!
-Mary has arrived at the store!
-Cathy has arrived at the store!
-James has arrived at the store!
-Chad has arrived at the store!
-Adam has arrived at the store!
+The number of spring rolls at the beginning of Day 1 is 30
+The number of egg rolls at the beginning of Day 1 is 30
+The number of pastry rolls at the beginning of Day 1 is 30
+The number of sausage rolls at the beginning of Day 1 is 30
+The number of jelly rolls at the beginning of Day 1 is 30
+Jane the CasualCustomer has arrived at the store!
+Jane the CasualCustomer purchased a Sausage Roll with 2 extra sauce, 0 extra filling, and 1 extra toppings.
+Cathy the CateringCustomer has arrived at the store!
+Oliver the CasualCustomer has arrived at the store!
+Oliver the CasualCustomer purchased a Pastry Roll with 1 extra sauce, 0 extra filling, and 1 extra toppings.
+Oliver the CasualCustomer purchased a Pastry Roll with 1 extra sauce, 1 extra filling, and 1 extra toppings.
+Wendy the BusinessCustomer has arrived at the store!
+Adam the CateringCustomer has arrived at the store!
+Karen the CateringCustomer has arrived at the store!
+Susan the CasualCustomer has arrived at the store!
+Susan the CasualCustomer purchased an Egg Roll with 0 extra sauce, 0 extra filling, and 0 extra toppings.
+Susan the CasualCustomer purchased an Egg Roll with 0 extra sauce, 1 extra filling, and 0 extra toppings.
 Today is Day 2.
-Amy has arrived at the store!
-Wendy has arrived at the store!
-Boone has arrived at the store!
-Jane has arrived at the store!
-Mia has arrived at the store!
-Martin has arrived at the store!
-Naomi has arrived at the store!
-Brandon has arrived at the store!
-James has arrived at the store!
-Chad has arrived at the store!
-Ellie has arrived at the store!
-Today is Day 3.
-Naomi has arrived at the store!
-James has arrived at the store!
-Jane has arrived at the store!
-Boone has arrived at the store!
-Susan has arrived at the store!
-Amy has arrived at the store!
-Mason has arrived at the store!
-Mary has arrived at the store!
-Wendy has arrived at the store!
-Karen has arrived at the store!
-Mia has arrived at the store!
-Martin has arrived at the store!
-Oliver has arrived at the store!
-Today is Day 4.
-Wendy has arrived at the store!
-Mason has arrived at the store!
-Adam has arrived at the store!
-Mia has arrived at the store!
-Jane has arrived at the store!
-James has arrived at the store!
-Cathy has arrived at the store!
-Oliver has arrived at the store!
-Naomi has arrived at the store!
-Mary has arrived at the store!
-Chad has arrived at the store!
-Boone has arrived at the store!
-Amy has arrived at the store!
-Ellie has arrived at the store!
-Today is Day 5.
-Martin has arrived at the store!
-Adam has arrived at the store!
-Ellie has arrived at the store!
-Karen has arrived at the store!
-Susan has arrived at the store!
-Naomi has arrived at the store!
-Oliver has arrived at the store!
-Amy has arrived at the store!
-Jane has arrived at the store!
-Mary has arrived at the store!
-Cathy has arrived at the store!
-James has arrived at the store!
-Today is Day 6.
-Mia has arrived at the store!
-Brandon has arrived at the store!
-Mary has arrived at the store!
-Wendy has arrived at the store!
-Boone has arrived at the store!
-Susan has arrived at the store!
-Chad has arrived at the store!
-Ellie has arrived at the store!
-Mason has arrived at the store!
-Oliver has arrived at the store!
-James has arrived at the store!
-Today is Day 7.
-Chad has arrived at the store!
-Boone has arrived at the store!
-Wendy has arrived at the store!
-Ellie has arrived at the store!
-Oliver has arrived at the store!
-Susan has arrived at the store!
-Naomi has arrived at the store!
-Karen has arrived at the store!
-Mia has arrived at the store!
-Mary has arrived at the store!
+The number of spring rolls at the beginning of Day 2 is 28
+The number of egg rolls at the beginning of Day 2 is 28
+The number of pastry rolls at the beginning of Day 2 is 28
+The number of sausage rolls at the beginning of Day 2 is 29
+The number of jelly rolls at the beginning of Day 2 is 30
+Adam the CasualCustomer has arrived at the store!
+Adam the CasualCustomer purchased an Egg Roll with 3 extra sauce, 1 extra filling, and 0 extra toppings.
+Adam the CasualCustomer purchased a Spring Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
+Mia the CasualCustomer has arrived at the store!
+Mia the CasualCustomer purchased a Pastry Roll with 1 extra sauce, 0 extra filling, and 2 extra toppings.
+Mia the CasualCustomer purchased a Pastry Roll with 0 extra sauce, 1 extra filling, and 1 extra toppings.
+Martin the CasualCustomer has arrived at the store!
+Martin the CasualCustomer purchased a Spring Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
+Mary the CasualCustomer has arrived at the store!
+Mary the CasualCustomer purchased a Jelly Roll with 2 extra sauce, 0 extra filling, and 1 extra toppings.
+Mary the CasualCustomer purchased a Spring Roll with 1 extra sauces, 1 extra fillings, and 0 extra toppings.
+Jane the CasualCustomer has arrived at the store!
+Jane the CasualCustomer purchased a Sausage Roll with 2 extra sauce, 1 extra filling, and 0 extra toppings.
+Jane the CasualCustomer purchased a Pastry Roll with 0 extra sauce, 0 extra filling, and 2 extra toppings.
+Oliver the BusinessCustomer has arrived at the store!
+Wendy the CasualCustomer has arrived at the store!
+Wendy the CasualCustomer purchased a Jelly Roll with 3 extra sauce, 0 extra filling, and 2 extra toppings.
+Amy the CasualCustomer has arrived at the store!
+Amy the CasualCustomer purchased a Pastry Roll with 3 extra sauce, 0 extra filling, and 1 extra toppings.
+Amy the CasualCustomer purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
+Karen the CateringCustomer has arrived at the store!
+Brandon the BusinessCustomer has arrived at the store!
