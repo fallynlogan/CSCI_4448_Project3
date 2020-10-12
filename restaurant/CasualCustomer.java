@@ -25,10 +25,10 @@ public class CasualCustomer extends Customer {
             if(rollType==1)
             {
                 //Spring Roll
-                if(canPurchaseRoll("SpringRoll")){
+                if(canPurchaseRoll("SpringRoll",1)){
                     rolls[index] = new SpringRoll();
                     index++;
-                    System.out.println(this.getName() + " the " + this.getClass().getSimpleName() + " purchased a Spring Roll with " + extraSauce + " extra sauces, " + extraFill + " extra fillings, and " + extraTop + " extra toppings.");
+                    System.out.println(this.getName() +  " purchased a Spring Roll with " + extraSauce + " extra sauces, " + extraFill + " extra fillings, and " + extraTop + " extra toppings.");
                     int currRolls = Store.inventory.get("numSprRolls");
                     Store.inventory.put("numSprRolls",currRolls-1);
                 }
@@ -36,10 +36,10 @@ public class CasualCustomer extends Customer {
             else if(rollType==2)
             {
                 //Egg Roll
-                if(canPurchaseRoll("EggRoll")){
+                if(canPurchaseRoll("EggRoll",1)){
                     rolls[index] = new EggRoll();
                     index++;
-                    System.out.println(this.getName() + " the " + this.getClass().getSimpleName() + " purchased an Egg Roll with " + extraSauce + " extra sauce, " + extraFill + " extra filling, and " + extraTop + " extra toppings.");
+                    System.out.println(this.getName() + " purchased an Egg Roll with " + extraSauce + " extra sauce, " + extraFill + " extra filling, and " + extraTop + " extra toppings.");
                     int currRolls = Store.inventory.get("numEggRolls");
                     Store.inventory.put("numEggRolls",currRolls-1);
                 }
@@ -47,10 +47,10 @@ public class CasualCustomer extends Customer {
             else if(rollType==3)
             {
                 //Pastry Roll
-                if(canPurchaseRoll("PastryRoll")){
+                if(canPurchaseRoll("PastryRoll",1)){
                     rolls[index] = new PastryRoll();
                     index++;
-                    System.out.println(this.getName() + " the " + this.getClass().getSimpleName() + " purchased a Pastry Roll with " + extraSauce + " extra sauce, " + extraFill + " extra filling, and " + extraTop + " extra toppings.");
+                    System.out.println(this.getName() + " purchased a Pastry Roll with " + extraSauce + " extra sauce, " + extraFill + " extra filling, and " + extraTop + " extra toppings.");
                     int currRolls = Store.inventory.get("numPastryRolls");
                     Store.inventory.put("numPastryRolls",currRolls-1);
                 }
@@ -58,10 +58,10 @@ public class CasualCustomer extends Customer {
             else if(rollType==4)
             {
                 //Sausage Roll
-                if(canPurchaseRoll("SausageRoll")){
+                if(canPurchaseRoll("SausageRoll",1)){
                     rolls[index] = new SausageRoll();
                     index++;
-                    System.out.println(this.getName() + " the " + this.getClass().getSimpleName() + " purchased a Sausage Roll with " + extraSauce + " extra sauce, " + extraFill + " extra filling, and " + extraTop + " extra toppings.");
+                    System.out.println(this.getName() + " purchased a Sausage Roll with " + extraSauce + " extra sauce, " + extraFill + " extra filling, and " + extraTop + " extra toppings.");
                     int currRolls = Store.inventory.get("numSausageRolls");
                     Store.inventory.put("numSausageRolls",currRolls-1);
                 }
@@ -69,10 +69,10 @@ public class CasualCustomer extends Customer {
             else if(rollType==5)
             {
                 //Jelly Roll
-                if(canPurchaseRoll("JellyRoll")){
+                if(canPurchaseRoll("JellyRoll",1)){
                     rolls[index] = new JellyRoll();
                     index++;
-                    System.out.println(this.getName() + " the " + this.getClass().getSimpleName() + " purchased a Jelly Roll with " + extraSauce + " extra sauce, " + extraFill + " extra filling, and " + extraTop + " extra toppings.");
+                    System.out.println(this.getName() + " purchased a Jelly Roll with " + extraSauce + " extra sauce, " + extraFill + " extra filling, and " + extraTop + " extra toppings.");
                     int currRolls = Store.inventory.get("numJellyRolls");
                     Store.inventory.put("numJellyRolls",currRolls-1);
                 }

@@ -12,13 +12,11 @@ public class CateringCustomer extends Customer {
     {
         Random rand = new Random();
 
-        FoodItem[] rolls = new FoodItem[rollsWanted];
-
-
-
         int extraSauce = rand.nextInt(4);
         int extraFill = rand.nextInt(2);
         int extraTop = rand.nextInt(3);
+
+
 
     }
 

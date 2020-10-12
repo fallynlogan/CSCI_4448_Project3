@@ -11,32 +11,32 @@ public abstract class Customer{
         return name;
     }
 
-    public Boolean canPurchaseRoll(String rollName)
+    public Boolean canPurchaseRoll(String rollName, int numRolls)
     {
         Boolean x = false;
         if(rollName == "EggRoll") {
-            if (Store.inventory.get("numEggRolls") > 0) {
+            if (Store.inventory.get("numEggRolls")-numRolls >= 0) {
                 x = true;
             }
         }
 
         if(rollName =="SpringRoll"){
-            if(Store.inventory.get("numSprRolls") > 0){
+            if(Store.inventory.get("numSprRolls")-numRolls >= 0){
                 x = true;
             }
         }
         if(rollName =="PastryRoll") {
-            if(Store.inventory.get("numPastryRolls") > 0) {
+            if(Store.inventory.get("numPastryRolls")-numRolls >= 0) {
                 x = true;
             }
         }
         if(rollName =="SausageRoll"){
-            if(Store.inventory.get("numSausageRolls") > 0) {
+            if(Store.inventory.get("numSausageRolls")-numRolls >= 0) {
                 x = true;
             }
         }
         if(rollName =="JellyRoll") {
-            if(Store.inventory.get("numJellyRolls") > 0) {
+            if(Store.inventory.get("numJellyRolls")-numRolls >= 0) {
                 x = true;
             }
         }

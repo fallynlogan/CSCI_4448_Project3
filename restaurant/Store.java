@@ -11,7 +11,7 @@ public class Store {
     {
         Random rand = new Random();
 
-        System.out.println("Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin.");
+        System.out.println("Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin.\n\n");
         inventory = new HashMap<String, Integer>();
         inventory.put("numSprRolls", 30);
         inventory.put("numEggRolls", 30);
@@ -32,6 +32,7 @@ public class Store {
             System.out.println("The number of pastry rolls at the beginning of Day " + i + " is " + inventory.get("numPastryRolls") + ".");
             System.out.println("The number of sausage rolls at the beginning of Day " + i + " is " + inventory.get("numSausageRolls") + ".");
             System.out.println("The number of jelly rolls at the beginning of Day " + i + " is " + inventory.get("numJellyRolls") + ".");
+            System.out.println("\n====================================================================================================\n");
 
             for(int j=0;j<customers.length;j++)
             {
@@ -49,6 +50,7 @@ public class Store {
                     rollsWanted = 15;
                 }
                 customers[j].purchaseRolls(rollsWanted);
+                System.out.println("\n====================================================================================================\n"); //100 characters long to help see individual purchases clearer
             }
 
         }
