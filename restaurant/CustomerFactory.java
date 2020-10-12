@@ -74,7 +74,6 @@ public class CustomerFactory{
             currentIndex++;
         }
 
-        Customer[] shuffledCustomers = shuffleCustomers(dailyCustomers);
-        return shuffledCustomers;
+        return shuffleCustomers(dailyCustomers);
     }
 }
