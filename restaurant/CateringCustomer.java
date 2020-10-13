@@ -49,7 +49,6 @@ public class CateringCustomer extends Customer {
 
         int extraSauce, extraFill, extraTop;
         String rollType1, rollType2, rollType3;        //Determining 3 random unique roll types by shuffling array of all roll types and picking first 3 in the array
-        String[] types = {"SpringRoll","EggRoll","PastryRoll","SausageRoll","JellyRoll"};
         int[] prolls = possibleRolls();     //Order: SpringRolls, EggRolls, PastryRolls, SausageRolls, JellyRolls
         int possibleSpringRolls, possibleEggRolls, possiblePastryRolls, possibleSausageRolls, possibleJellyRolls;
         possibleSpringRolls = prolls[0]; possibleEggRolls = prolls[1]; possiblePastryRolls = prolls[2]; possibleSausageRolls = prolls[3]; possibleJellyRolls = prolls[4];
@@ -57,6 +56,7 @@ public class CateringCustomer extends Customer {
 
         FoodItem[] allRolls = new FoodItem[totalRollsAvailable];
 
+        String[] types = {"SpringRoll","EggRoll","PastryRoll","SausageRoll","JellyRoll"};
         for(int i=0 ; i<types.length ; i++){
             int randomIndexToSwap = rand.nextInt(types.length);
             String temp = types[randomIndexToSwap];
@@ -64,6 +64,46 @@ public class CateringCustomer extends Customer {
             types[i] = temp;
         }
         rollType1 = types[0]; rollType2 = types[1]; rollType3 = types[2];
+
+        Boolean three = false; Boolean four = false;
+
+        if(isSoldOut(rollType1)){
+            System.out.println("Sorry " + this.getName() + " " + rollType1 + "s are currently SOLD OUT!");
+            if(canPurchaseRoll(types[3],1)){
+                System.out.println(this.getName() + " swaps out " + rollType1 + "s for " + types[3] + "s.");
+                rollType1 = types[3];
+                three = true;
+            }
+            else if(canPurchaseRoll(types[4],1)){
+                System.out.println(this.getName() + " swaps out " + rollType1 + "s for " + types[4] + "s.");
+                rollType1 = types[4];
+                four = true;
+            }
+        }
+        if(isSoldOut(rollType2)){
+            System.out.println("Sorry " + this.getName() + " " + rollType2 + "s are currently SOLD OUT!");
+            if(canPurchaseRoll(types[3],1) && !three){
+                System.out.println(this.getName() + " swaps out " + rollType2 + "s for " + types[3] + "s.");
+                rollType2 = types[3];
+                three = true;
+            }
+            else if(canPurchaseRoll(types[4],1) && !four){
+                System.out.println(this.getName() + " swaps out " + rollType2 + "s for " + types[4] + "s.");
+                rollType2 = types[4];
+                four = true;
+            }
+        }
+        if(isSoldOut(rollType3)){
+            System.out.println("Sorry " + this.getName() + " " + rollType3 + "s are currently SOLD OUT!");
+            if(canPurchaseRoll(types[3],1) && !three){
+                System.out.println(this.getName() + " swaps out " + rollType3 + "s for " + types[3] + "s.");
+                rollType3 = types[3];
+            }
+            else if(canPurchaseRoll(types[4],1) && !four){
+                System.out.println(this.getName() + " swaps out " + rollType3 + "s for " + types[4] + "s.");
+                rollType3 = types[4];
+            }
+        }
 
         int index = 0;
 
