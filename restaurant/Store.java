@@ -5,19 +5,20 @@ import java.util.*;
 public class Store {
     public Customer[] customers;
     public static HashMap<String, Integer> inventory;
+    private Integer rollStartCount = 30;
     
 
     public Store(int numDays)
     {
         Random rand = new Random();
 
-        System.out.println("Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin.\n\n");
+        System.out.println("---------- Welcome to Molly's Mouthwatering Rolls! The simulation is about to begin... ----------\n\n");
         inventory = new HashMap<String, Integer>();
-        inventory.put("numSprRolls", 30);
-        inventory.put("numEggRolls", 30);
-        inventory.put("numPastryRolls",30);
-        inventory.put("numSausageRolls", 30);
-        inventory.put("numJellyRolls", 30);
+        inventory.put("numSprRolls", rollStartCount);
+        inventory.put("numEggRolls", rollStartCount);
+        inventory.put("numPastryRolls",rollStartCount);
+        inventory.put("numSausageRolls", rollStartCount);
+        inventory.put("numJellyRolls", rollStartCount);
 
         Menu ourMenu = new Menu();
 
@@ -28,28 +29,28 @@ public class Store {
             System.out.println("Today is Day " + i + ".");
             customers = CustomerFactory.createDailyCustomers();
 
-            if(inventory.get("numSprRolls")<=0){
-                inventory.put("numSprRolls",30);
+            if(inventory.get("numSprRolls")==0){
+                inventory.put("numSprRolls",rollStartCount);
             }
-            if(inventory.get("numEggRolls")<=0){
-                inventory.put("numEggRolls",30);
+            if(inventory.get("numEggRolls")==0){
+                inventory.put("numEggRolls",rollStartCount);
             }
-            if(inventory.get("numPastryRolls")<=0){
-                inventory.put("numPastryRolls",30);
+            if(inventory.get("numPastryRolls")==0){
+                inventory.put("numPastryRolls",rollStartCount);
             }
-            if(inventory.get("numSausageRolls")<=0){
-                inventory.put("numSausageRolls",30);
+            if(inventory.get("numSausageRolls")==0){
+                inventory.put("numSausageRolls",rollStartCount);
             }
-            if(inventory.get("numJellyRolls")<=0){
-                inventory.put("numJellyRolls",30);
+            if(inventory.get("numJellyRolls")==0){
+                inventory.put("numJellyRolls",rollStartCount);
             }
 
 
-            System.out.println("The number of spring rolls at the beginning of Day " + i + " is " + inventory.get("numSprRolls") + ".");
-            System.out.println("The number of egg rolls at the beginning of Day " + i + " is " + inventory.get("numEggRolls") + ".");
-            System.out.println("The number of pastry rolls at the beginning of Day " + i + " is " + inventory.get("numPastryRolls") + ".");
-            System.out.println("The number of sausage rolls at the beginning of Day " + i + " is " + inventory.get("numSausageRolls") + ".");
-            System.out.println("The number of jelly rolls at the beginning of Day " + i + " is " + inventory.get("numJellyRolls") + ".");
+            System.out.println("Spring Roll Stock: " + inventory.get("numSprRolls"));
+            System.out.println("Egg Roll Stock: " + inventory.get("numEggRolls"));
+            System.out.println("Pastry Roll Stock: " + inventory.get("numPastryRolls"));
+            System.out.println("Sausage Roll Stock: " + inventory.get("numSausageRolls"));
+            System.out.println("Jelly Roll Stock: " + inventory.get("numJellyRolls"));
             System.out.println("\n====================================================================================================\n");
 
             for(int j=0;j<customers.length;j++)
@@ -68,6 +69,10 @@ public class Store {
                     rollsWanted = 15;
                 }
                 customers[j].purchaseRolls(rollsWanted);
+                if(customers[j].checkInventorySoldOut()){
+                    System.out.println("\n====================================================================================================\n");
+                    break;
+                }
                 System.out.println("\n====================================================================================================\n"); //100 characters long to help see individual purchases clearer
             }
 
