@@ -21,6 +21,17 @@ public class Store {
         inventory.put("numJellyRolls", rollStartCount);
 
         Menu ourMenu = new Menu();
+        MyUnitTests unitTests = new MyUnitTests();
+        unitTests.eggRollCountTest();
+        unitTests.eggRollPriceTest();
+        unitTests.pastryRollCountTest();
+        unitTests.pastryRollPriceTest();
+        unitTests.jellyRollCountTest();
+        unitTests.jellyRollPriceTest();
+        unitTests.sausageRollCountTest();
+        unitTests.sausageRollPriceTest();
+        unitTests.springRollCountTest();
+        unitTests.springRollPriceTest();
 
         int rollsWanted = 0;
 

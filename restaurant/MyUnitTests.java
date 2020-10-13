@@ -21,7 +21,7 @@ public class MyUnitTests {
 
     }
 
-    public void sausageRollPrice()
+    public void sausageRollPriceTest()
     {
        SausageRoll sausageRoll = new SausageRoll();
        Double price = sausageRoll.getFoodPrice();
@@ -29,7 +29,7 @@ public class MyUnitTests {
 
     }
 
-    public void jellyRollPrice()
+    public void jellyRollPriceTest()
     {
         JellyRoll jellyRoll = new JellyRoll();
         Double price = jellyRoll.getFoodPrice();
@@ -37,38 +37,38 @@ public class MyUnitTests {
 
     }
 
-    public void springRollPrice()
+    public void springRollPriceTest()
     {
         SpringRoll springRoll = new SpringRoll();
         Double price = springRoll.getFoodPrice();
         assertEquals(3.50, price);
     }
 
-    public void eggRollCount()
+    public void eggRollCountTest()
     {
         int count = Store.inventory.get("numEggRolls");
         assertEquals(count, 30);
     }
 
-    public void pastryRollCount()
+    public void pastryRollCountTest()
     {
         int count = Store.inventory.get("numPastryRolls");
         assertEquals(count, 30);
     }
 
-    public void sausageRollCount()
+    public void sausageRollCountTest()
     {
         int count = Store.inventory.get("numSausageRolls");
         assertEquals(count, 30);
     }
 
-    public void jellyRollCount()
+    public void jellyRollCountTest()
     {
         int count = Store.inventory.get("numJellyRolls");
         assertEquals(count, 30);
     }
 
-    public void springRollCount()
+    public void springRollCountTest()
     {
         int count = Store.inventory.get("numSprRolls");
         assertEquals(count, 30);
