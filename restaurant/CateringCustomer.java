@@ -66,9 +66,10 @@ public class CateringCustomer extends Customer {
         rollType1 = types[0]; rollType2 = types[1]; rollType3 = types[2];
 
         Boolean three = false; Boolean four = false;
+        int currRolls;
 
         if(isSoldOut(rollType1)){
-            System.out.println("Sorry " + this.getName() + " " + rollType1 + "s are currently SOLD OUT!");
+            System.out.println("Sorry " + this.getName() + " " + rollType1 + "s are currently unavailable!");
             if(canPurchaseRoll(types[3],1)){
                 System.out.println(this.getName() + " swaps out " + rollType1 + "s for " + types[3] + "s.");
                 rollType1 = types[3];
@@ -81,7 +82,7 @@ public class CateringCustomer extends Customer {
             }
         }
         if(isSoldOut(rollType2)){
-            System.out.println("Sorry " + this.getName() + " " + rollType2 + "s are currently SOLD OUT!");
+            System.out.println("Sorry " + this.getName() + " " + rollType2 + "s are currently unavailable!");
             if(canPurchaseRoll(types[3],1) && !three){
                 System.out.println(this.getName() + " swaps out " + rollType2 + "s for " + types[3] + "s.");
                 rollType2 = types[3];
@@ -94,7 +95,7 @@ public class CateringCustomer extends Customer {
             }
         }
         if(isSoldOut(rollType3)){
-            System.out.println("Sorry " + this.getName() + " " + rollType3 + "s are currently SOLD OUT!");
+            System.out.println("Sorry " + this.getName() + " " + rollType3 + "s are currently unavailable!");
             if(canPurchaseRoll(types[3],1) && !three){
                 System.out.println(this.getName() + " swaps out " + rollType3 + "s for " + types[3] + "s.");
                 rollType3 = types[3];
@@ -110,76 +111,71 @@ public class CateringCustomer extends Customer {
         if(rollType1=="SpringRoll" || rollType2 == "SpringRoll" || rollType3=="SpringRoll")
         {
 
-            for(int i=index ; i<index+possibleSpringRolls ; i++)
+            for(int i=0 ; i<possibleSpringRolls ; i++)
             {
                 extraSauce = rand.nextInt(4); extraFill = rand.nextInt(2); extraTop = rand.nextInt(3);
-                allRolls[i] = new SpringRoll();
+                allRolls[index] = new SpringRoll(); index++;
                 System.out.println(this.getName() + " purchased a Spring Roll with " + extraSauce + " extra sauces, " + extraFill + " extra fillings, and " + extraTop + " extra toppings.");
-                int currRolls = Store.inventory.get("numSprRolls");
+                currRolls = Store.inventory.get("numSprRolls");
                 Store.inventory.put("numSprRolls",currRolls-1);
             }
-            index += possibleSpringRolls;
-            if(possibleSpringRolls < 5){
+            if(Store.inventory.get("numSprRolls")==0 && possibleSpringRolls>0){
                 System.out.println("ATTENTION! Spring Rolls are now currently unavailable. Sorry for the inconvenience!");
             }
         }
         if(rollType1=="EggRoll" || rollType2 == "EggRoll" || rollType3=="EggRoll")
         {
-            for(int i=index ; i<index+possibleEggRolls ; i++)
+            for(int i=0 ; i<possibleEggRolls ; i++)
             {
                 extraSauce = rand.nextInt(4); extraFill = rand.nextInt(2); extraTop = rand.nextInt(3);
-                allRolls[i] = new EggRoll();
+                allRolls[index] = new EggRoll(); index++;
                 System.out.println(this.getName() + " purchased an Egg Roll with " + extraSauce + " extra sauces, " + extraFill + " extra fillings, and " + extraTop + " extra toppings.");
-                int currRolls = Store.inventory.get("numEggRolls");
+                currRolls = Store.inventory.get("numEggRolls");
                 Store.inventory.put("numEggRolls",currRolls-1);
             }
-            index += possibleEggRolls;
-            if(possibleEggRolls < 5){
+            if(Store.inventory.get("numEggRolls")==0 && possibleEggRolls>0){
                 System.out.println("ATTENTION! Egg Rolls are now currently unavailable. Sorry for the inconvenience!");
             }
         }
         if(rollType1=="PastryRoll" || rollType2 == "PastryRoll" || rollType3=="PastryRoll")
         {
-            for(int i=index ; i<index+possiblePastryRolls ; i++)
+            for(int i=0 ; i<possiblePastryRolls ; i++)
             {
                 extraSauce = rand.nextInt(4); extraFill = rand.nextInt(2); extraTop = rand.nextInt(3);
-                allRolls[i] = new PastryRoll();
+                allRolls[index] = new PastryRoll(); index++;
                 System.out.println(this.getName() + " purchased a Pastry Roll with " + extraSauce + " extra sauces, " + extraFill + " extra fillings, and " + extraTop + " extra toppings.");
-                int currRolls = Store.inventory.get("numPastryRolls");
+                currRolls = Store.inventory.get("numPastryRolls");
                 Store.inventory.put("numPastryRolls",currRolls-1);
             }
-            index += possiblePastryRolls;
-            if(possiblePastryRolls < 5){
+            if(Store.inventory.get("numPastryRolls")==0 && possiblePastryRolls>0){
                 System.out.println("ATTENTION! Pastry Rolls are now currently unavailable. Sorry for the inconvenience!");
             }
         }
         if(rollType1=="SausageRoll" || rollType2 == "SausageRoll" || rollType3=="SausageRoll")
         {
-            for(int i=index ; i<index+possibleSausageRolls ; i++)
+            for(int i=0 ; i<possibleSausageRolls ; i++)
             {
                 extraSauce = rand.nextInt(4); extraFill = rand.nextInt(2); extraTop = rand.nextInt(3);
-                allRolls[i] = new SausageRoll();
+                allRolls[index] = new SausageRoll(); index++;
                 System.out.println(this.getName() + " purchased a Sausage Roll with " + extraSauce + " extra sauces, " + extraFill + " extra fillings, and " + extraTop + " extra toppings.");
-                int currRolls = Store.inventory.get("numSausageRolls");
+                currRolls = Store.inventory.get("numSausageRolls");
                 Store.inventory.put("numSausageRolls",currRolls-1);
             }
-            index += possibleSausageRolls;
-            if(possibleSausageRolls < 5){
+            if(Store.inventory.get("numSausageRolls")==0 && possibleSausageRolls>0){
                 System.out.println("ATTENTION! Sausage Rolls are now currently unavailable. Sorry for the inconvenience!");
             }
         }
         if(rollType1=="JellyRoll" || rollType2 == "JellyRoll" || rollType3=="JellyRoll")
         {
-            for(int i=index ; i<index+possibleJellyRolls ; i++)
+            for(int i=0 ; i<possibleJellyRolls ; i++)
             {
                 extraSauce = rand.nextInt(4); extraFill = rand.nextInt(2); extraTop = rand.nextInt(3);
-                allRolls[i] = new JellyRoll();
+                allRolls[index] = new JellyRoll(); index++;
                 System.out.println(this.getName() + " purchased a Jelly Roll with " + extraSauce + " extra sauces, " + extraFill + " extra fillings, and " + extraTop + " extra toppings.");
-                int currRolls = Store.inventory.get("numJellyRolls");
+                currRolls = Store.inventory.get("numJellyRolls");
                 Store.inventory.put("numJellyRolls",currRolls-1);
             }
-            index += possibleJellyRolls;
-            if(possibleJellyRolls < 5){
+            if(Store.inventory.get("numJellyRolls")==0 && possibleJellyRolls>0){
                 System.out.println("ATTENTION! Jelly Rolls are now currently unavailable. Sorry for the inconvenience!");
             }
         }
