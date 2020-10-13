@@ -27,6 +27,24 @@ public class Store {
         {
             System.out.println("Today is Day " + i + ".");
             customers = CustomerFactory.createDailyCustomers();
+
+            if(inventory.get("numSprRolls")<=0){
+                inventory.put("numSprRolls",30);
+            }
+            if(inventory.get("numEggRolls")<=0){
+                inventory.put("numEggRolls",30);
+            }
+            if(inventory.get("numPastryRolls")<=0){
+                inventory.put("numPastryRolls",30);
+            }
+            if(inventory.get("numSausageRolls")<=0){
+                inventory.put("numSausageRolls",30);
+            }
+            if(inventory.get("numJellyRolls")<=0){
+                inventory.put("numJellyRolls",30);
+            }
+
+
             System.out.println("The number of spring rolls at the beginning of Day " + i + " is " + inventory.get("numSprRolls") + ".");
             System.out.println("The number of egg rolls at the beginning of Day " + i + " is " + inventory.get("numEggRolls") + ".");
             System.out.println("The number of pastry rolls at the beginning of Day " + i + " is " + inventory.get("numPastryRolls") + ".");

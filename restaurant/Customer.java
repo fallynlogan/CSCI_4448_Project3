@@ -15,28 +15,28 @@ public abstract class Customer{
     {
         Boolean x = false;
         if(rollName == "EggRoll") {
-            if (Store.inventory.get("numEggRolls")-numRolls >= 0) {
+            if (Store.inventory.get("numEggRolls")-numRolls > 0) {
                 x = true;
             }
         }
 
         if(rollName =="SpringRoll"){
-            if(Store.inventory.get("numSprRolls")-numRolls >= 0){
+            if(Store.inventory.get("numSprRolls")-numRolls > 0){
                 x = true;
             }
         }
         if(rollName =="PastryRoll") {
-            if(Store.inventory.get("numPastryRolls")-numRolls >= 0) {
+            if(Store.inventory.get("numPastryRolls")-numRolls > 0) {
                 x = true;
             }
         }
         if(rollName =="SausageRoll"){
-            if(Store.inventory.get("numSausageRolls")-numRolls >= 0) {
+            if(Store.inventory.get("numSausageRolls")-numRolls > 0) {
                 x = true;
             }
         }
         if(rollName =="JellyRoll") {
-            if(Store.inventory.get("numJellyRolls")-numRolls >= 0) {
+            if(Store.inventory.get("numJellyRolls")-numRolls > 0) {
                 x = true;
             }
         }

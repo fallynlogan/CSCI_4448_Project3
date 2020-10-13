@@ -10,389 +10,358 @@ The number of jelly rolls at the beginning of Day 1 is 30.
 
 ====================================================================================================
 
-James the CasualCustomer has arrived at the store!
-James purchased an Egg Roll with 1 extra sauce, 1 extra filling, and 2 extra toppings.
-James purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
+Mia the CasualCustomer has arrived at the store!
+Mia wants to buy a Jelly Roll.
+Mia purchased a Jelly Roll with 1 extra sauce, 0 extra filling, and 0 extra toppings.
+
+====================================================================================================
+
+Karen the CasualCustomer has arrived at the store!
+Karen wants to buy an Egg Roll.
+Karen purchased an Egg Roll with 3 extra sauce, 1 extra filling, and 2 extra toppings.
+
+====================================================================================================
+
+Boone the CasualCustomer has arrived at the store!
+Boone wants to buy a Sausage Roll.
+Boone purchased a Sausage Roll with 3 extra sauce, 0 extra filling, and 2 extra toppings.
 
 ====================================================================================================
 
 Jane the CasualCustomer has arrived at the store!
-Jane purchased a Spring Roll with 2 extra sauces, 1 extra fillings, and 2 extra toppings.
-Jane purchased a Pastry Roll with 3 extra sauce, 0 extra filling, and 2 extra toppings.
+Jane wants to buy a Sausage Roll.
+Jane purchased a Sausage Roll with 3 extra sauce, 0 extra filling, and 0 extra toppings.
 
 ====================================================================================================
 
-Mary the CateringCustomer has arrived at the store!
+Naomi the CasualCustomer has arrived at the store!
+Naomi wants to buy a Sausage Roll.
+Naomi purchased a Sausage Roll with 1 extra sauce, 0 extra filling, and 1 extra toppings.
+Naomi wants to buy a Sausage Roll.
+Naomi purchased a Sausage Roll with 3 extra sauce, 0 extra filling, and 0 extra toppings.
+
+====================================================================================================
+
+Chad the CasualCustomer has arrived at the store!
+Chad wants to buy a Jelly Roll.
+Chad purchased a Jelly Roll with 3 extra sauce, 0 extra filling, and 0 extra toppings.
+Chad wants to buy an Egg Roll.
+Chad purchased an Egg Roll with 2 extra sauce, 0 extra filling, and 2 extra toppings.
+
+====================================================================================================
+
+Susan the CasualCustomer has arrived at the store!
+Susan wants to buy a Jelly Roll.
+Susan purchased a Jelly Roll with 0 extra sauce, 0 extra filling, and 0 extra toppings.
 
 ====================================================================================================
 
 Ellie the CasualCustomer has arrived at the store!
-Ellie purchased a Spring Roll with 1 extra sauces, 1 extra fillings, and 1 extra toppings.
-Ellie purchased a Sausage Roll with 2 extra sauce, 0 extra filling, and 1 extra toppings.
+Ellie wants to buy a Spring Roll.
+Ellie purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
 
 ====================================================================================================
 
 Amy the CasualCustomer has arrived at the store!
-Amy purchased an Egg Roll with 2 extra sauce, 0 extra filling, and 0 extra toppings.
-Amy purchased a Jelly Roll with 2 extra sauce, 0 extra filling, and 1 extra toppings.
-
-====================================================================================================
-
-Karen the BusinessCustomer has arrived at the store!
-Karen purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 2 extra toppings.
-Karen purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 2 extra toppings.
-Karen purchased an Egg Roll with 2 extra sauces, 0 extra fillings, and 1 extra toppings.
-Karen purchased an Egg Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
-Karen purchased a Pastry Roll with 2 extra sauces, 1 extra fillings, and 1 extra toppings.
-Karen purchased a Pastry Roll with 0 extra sauces, 1 extra fillings, and 0 extra toppings.
-Karen purchased a Sausage Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
-Karen purchased a Sausage Roll with 3 extra sauces, 0 extra fillings, and 1 extra toppings.
-Karen purchased a Jelly Roll with 3 extra sauces, 0 extra fillings, and 0 extra toppings.
-Karen purchased a Jelly Roll with 1 extra sauces, 1 extra fillings, and 2 extra toppings.
-
-====================================================================================================
-
-Mason the CasualCustomer has arrived at the store!
-Mason purchased a Spring Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
-Mason purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
+Amy wants to buy a Spring Roll.
+Amy purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 2 extra toppings.
 
 ====================================================================================================
 
 Cathy the CateringCustomer has arrived at the store!
+Cathy purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 0 extra toppings.
+Cathy purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
+Cathy purchased a Spring Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+Cathy purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
+Cathy purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
+Cathy purchased an Egg Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+Cathy purchased an Egg Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
+Cathy purchased an Egg Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
+Cathy purchased an Egg Roll with 3 extra sauces, 0 extra fillings, and 0 extra toppings.
+Cathy purchased an Egg Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
+Cathy purchased a Jelly Roll with 0 extra sauces, 1 extra fillings, and 2 extra toppings.
+Cathy purchased a Jelly Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
+Cathy purchased a Jelly Roll with 1 extra sauces, 1 extra fillings, and 1 extra toppings.
+Cathy purchased a Jelly Roll with 2 extra sauces, 1 extra fillings, and 2 extra toppings.
+Cathy purchased a Jelly Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
 
 ====================================================================================================
 
-Brandon the CasualCustomer has arrived at the store!
-Brandon purchased a Jelly Roll with 3 extra sauce, 1 extra filling, and 1 extra toppings.
-Brandon purchased an Egg Roll with 1 extra sauce, 0 extra filling, and 0 extra toppings.
+Mason the BusinessCustomer has arrived at the store!
+Mason purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
+Mason purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
+Mason purchased an Egg Roll with 1 extra sauces, 1 extra fillings, and 1 extra toppings.
+Mason purchased an Egg Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
+Mason purchased a Pastry Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+Mason purchased a Pastry Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
+Mason purchased a Sausage Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
+Mason purchased a Sausage Roll with 3 extra sauces, 0 extra fillings, and 2 extra toppings.
+Mason purchased a Jelly Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
+Mason purchased a Jelly Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
 
 ====================================================================================================
 
 Oliver the CasualCustomer has arrived at the store!
-Oliver purchased a Pastry Roll with 1 extra sauce, 1 extra filling, and 0 extra toppings.
-
-====================================================================================================
-
-Adam the CasualCustomer has arrived at the store!
-Adam purchased an Egg Roll with 1 extra sauce, 1 extra filling, and 1 extra toppings.
-
-====================================================================================================
-
-Naomi the BusinessCustomer has arrived at the store!
-Naomi purchased a Spring Roll with 3 extra sauces, 0 extra fillings, and 0 extra toppings.
-Naomi purchased a Spring Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
-Naomi purchased an Egg Roll with 2 extra sauces, 1 extra fillings, and 1 extra toppings.
-Naomi purchased an Egg Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
-Naomi purchased a Pastry Roll with 3 extra sauces, 1 extra fillings, and 0 extra toppings.
-Naomi purchased a Pastry Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
-Naomi purchased a Sausage Roll with 2 extra sauces, 0 extra fillings, and 1 extra toppings.
-Naomi purchased a Sausage Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
-Naomi purchased a Jelly Roll with 3 extra sauces, 0 extra fillings, and 0 extra toppings.
-Naomi purchased a Jelly Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
-
-====================================================================================================
-
-Susan the CasualCustomer has arrived at the store!
-Susan purchased a Jelly Roll with 1 extra sauce, 1 extra filling, and 2 extra toppings.
-Susan purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 0 extra toppings.
-
-====================================================================================================
-
-Boone the BusinessCustomer has arrived at the store!
-Boone purchased a Spring Roll with 2 extra sauces, 0 extra fillings, and 2 extra toppings.
-Boone purchased a Spring Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
-Boone purchased an Egg Roll with 1 extra sauces, 1 extra fillings, and 1 extra toppings.
-Boone purchased an Egg Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
-Boone purchased a Pastry Roll with 3 extra sauces, 0 extra fillings, and 1 extra toppings.
-Boone purchased a Pastry Roll with 3 extra sauces, 0 extra fillings, and 2 extra toppings.
-Boone purchased a Sausage Roll with 2 extra sauces, 0 extra fillings, and 0 extra toppings.
-Boone purchased a Sausage Roll with 0 extra sauces, 1 extra fillings, and 0 extra toppings.
-Boone purchased a Jelly Roll with 2 extra sauces, 0 extra fillings, and 2 extra toppings.
-Boone purchased a Jelly Roll with 3 extra sauces, 0 extra fillings, and 1 extra toppings.
-
-====================================================================================================
-
-Wendy the CasualCustomer has arrived at the store!
-Wendy purchased a Sausage Roll with 1 extra sauce, 1 extra filling, and 0 extra toppings.
-Wendy purchased a Jelly Roll with 0 extra sauce, 0 extra filling, and 2 extra toppings.
-
-====================================================================================================
-
-Martin the CasualCustomer has arrived at the store!
-Martin purchased a Sausage Roll with 1 extra sauce, 1 extra filling, and 2 extra toppings.
-Martin purchased a Spring Roll with 2 extra sauces, 1 extra fillings, and 2 extra toppings.
-
-====================================================================================================
-
-Chad the CasualCustomer has arrived at the store!
-Chad purchased a Jelly Roll with 2 extra sauce, 1 extra filling, and 1 extra toppings.
-Chad purchased a Pastry Roll with 2 extra sauce, 0 extra filling, and 1 extra toppings.
-
-====================================================================================================
-
-Mia the CateringCustomer has arrived at the store!
+Oliver wants to buy a Sausage Roll.
+Oliver purchased a Sausage Roll with 2 extra sauce, 1 extra filling, and 2 extra toppings.
+Oliver wants to buy a Sausage Roll.
+Oliver purchased a Sausage Roll with 3 extra sauce, 1 extra filling, and 2 extra toppings.
 
 ====================================================================================================
 
 Today is Day 2.
-The number of spring rolls at the beginning of Day 2 is 17.
-The number of egg rolls at the beginning of Day 2 is 20.
-The number of pastry rolls at the beginning of Day 2 is 21.
-The number of sausage rolls at the beginning of Day 2 is 21.
-The number of jelly rolls at the beginning of Day 2 is 19.
+The number of spring rolls at the beginning of Day 2 is 21.
+The number of egg rolls at the beginning of Day 2 is 21.
+The number of pastry rolls at the beginning of Day 2 is 28.
+The number of sausage rolls at the beginning of Day 2 is 17.
+The number of jelly rolls at the beginning of Day 2 is 25.
 
 ====================================================================================================
 
-Ellie the CasualCustomer has arrived at the store!
-Ellie purchased a Sausage Roll with 3 extra sauce, 0 extra filling, and 2 extra toppings.
-Ellie purchased a Jelly Roll with 2 extra sauce, 1 extra filling, and 2 extra toppings.
-
-====================================================================================================
-
-Chad the CasualCustomer has arrived at the store!
-Chad purchased a Jelly Roll with 2 extra sauce, 0 extra filling, and 1 extra toppings.
-
-====================================================================================================
-
-Mason the CasualCustomer has arrived at the store!
-Mason purchased an Egg Roll with 3 extra sauce, 1 extra filling, and 1 extra toppings.
-
-====================================================================================================
-
-Oliver the CateringCustomer has arrived at the store!
-
-====================================================================================================
-
-Susan the CasualCustomer has arrived at the store!
-Susan purchased a Jelly Roll with 0 extra sauce, 0 extra filling, and 1 extra toppings.
-Susan purchased a Pastry Roll with 1 extra sauce, 0 extra filling, and 2 extra toppings.
-
-====================================================================================================
-
-Wendy the CasualCustomer has arrived at the store!
-Wendy purchased an Egg Roll with 0 extra sauce, 1 extra filling, and 1 extra toppings.
-
-====================================================================================================
-
-Mia the BusinessCustomer has arrived at the store!
-Mia purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
-Mia purchased a Spring Roll with 3 extra sauces, 0 extra fillings, and 2 extra toppings.
-Mia purchased an Egg Roll with 0 extra sauces, 1 extra fillings, and 2 extra toppings.
-Mia purchased an Egg Roll with 1 extra sauces, 0 extra fillings, and 0 extra toppings.
-Mia purchased a Pastry Roll with 2 extra sauces, 1 extra fillings, and 2 extra toppings.
-Mia purchased a Pastry Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
-Mia purchased a Sausage Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
-Mia purchased a Sausage Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
-Mia purchased a Jelly Roll with 1 extra sauces, 1 extra fillings, and 1 extra toppings.
-Mia purchased a Jelly Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
+Karen the CasualCustomer has arrived at the store!
+Karen wants to buy a Sausage Roll.
+Karen purchased a Sausage Roll with 1 extra sauce, 1 extra filling, and 0 extra toppings.
 
 ====================================================================================================
 
 Boone the CasualCustomer has arrived at the store!
-Boone purchased an Egg Roll with 2 extra sauce, 1 extra filling, and 0 extra toppings.
-
-====================================================================================================
-
-Jane the BusinessCustomer has arrived at the store!
-Jane purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
-Jane purchased a Spring Roll with 0 extra sauces, 1 extra fillings, and 0 extra toppings.
-Jane purchased an Egg Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
-Jane purchased an Egg Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
-Jane purchased a Pastry Roll with 1 extra sauces, 1 extra fillings, and 0 extra toppings.
-Jane purchased a Pastry Roll with 0 extra sauces, 1 extra fillings, and 0 extra toppings.
-Jane purchased a Sausage Roll with 1 extra sauces, 0 extra fillings, and 0 extra toppings.
-Jane purchased a Sausage Roll with 0 extra sauces, 1 extra fillings, and 0 extra toppings.
-Jane purchased a Jelly Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
-Jane purchased a Jelly Roll with 3 extra sauces, 1 extra fillings, and 0 extra toppings.
-
-====================================================================================================
-
-Cathy the CateringCustomer has arrived at the store!
-
-====================================================================================================
-
-Brandon the CasualCustomer has arrived at the store!
-Brandon purchased a Spring Roll with 0 extra sauces, 1 extra fillings, and 0 extra toppings.
-Brandon purchased a Spring Roll with 3 extra sauces, 0 extra fillings, and 1 extra toppings.
-
-====================================================================================================
-
-Naomi the CasualCustomer has arrived at the store!
-Naomi purchased a Pastry Roll with 0 extra sauce, 1 extra filling, and 1 extra toppings.
-
-====================================================================================================
-
-Martin the BusinessCustomer has arrived at the store!
-Martin purchased a Spring Roll with 2 extra sauces, 0 extra fillings, and 1 extra toppings.
-Martin purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
-Martin purchased an Egg Roll with 3 extra sauces, 0 extra fillings, and 2 extra toppings.
-Martin purchased an Egg Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
-Martin purchased a Pastry Roll with 3 extra sauces, 0 extra fillings, and 2 extra toppings.
-Martin purchased a Pastry Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
-Martin purchased a Sausage Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
-Martin purchased a Sausage Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
-Martin purchased a Jelly Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
-Martin purchased a Jelly Roll with 1 extra sauces, 0 extra fillings, and 0 extra toppings.
-
-====================================================================================================
-
-Today is Day 3.
-The number of spring rolls at the beginning of Day 3 is 9.
-The number of egg rolls at the beginning of Day 3 is 11.
-The number of pastry rolls at the beginning of Day 3 is 13.
-The number of sausage rolls at the beginning of Day 3 is 14.
-The number of jelly rolls at the beginning of Day 3 is 10.
-
-====================================================================================================
-
-Susan the BusinessCustomer has arrived at the store!
-Susan purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
-Susan purchased a Spring Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
-Susan purchased an Egg Roll with 2 extra sauces, 1 extra fillings, and 2 extra toppings.
-Susan purchased an Egg Roll with 1 extra sauces, 1 extra fillings, and 0 extra toppings.
-Susan purchased a Pastry Roll with 2 extra sauces, 0 extra fillings, and 0 extra toppings.
-Susan purchased a Pastry Roll with 3 extra sauces, 0 extra fillings, and 2 extra toppings.
-Susan purchased a Sausage Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
-Susan purchased a Sausage Roll with 3 extra sauces, 1 extra fillings, and 0 extra toppings.
-Susan purchased a Jelly Roll with 3 extra sauces, 0 extra fillings, and 0 extra toppings.
-Susan purchased a Jelly Roll with 2 extra sauces, 0 extra fillings, and 2 extra toppings.
-
-====================================================================================================
-
-Adam the CasualCustomer has arrived at the store!
-Adam purchased a Pastry Roll with 1 extra sauce, 0 extra filling, and 1 extra toppings.
-Adam purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
-
-====================================================================================================
-
-Mia the BusinessCustomer has arrived at the store!
-Mia purchased a Spring Roll with 3 extra sauces, 0 extra fillings, and 2 extra toppings.
-Mia purchased a Spring Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
-Mia purchased an Egg Roll with 3 extra sauces, 0 extra fillings, and 2 extra toppings.
-Mia purchased an Egg Roll with 2 extra sauces, 1 extra fillings, and 2 extra toppings.
-Mia purchased a Pastry Roll with 2 extra sauces, 0 extra fillings, and 1 extra toppings.
-Mia purchased a Pastry Roll with 0 extra sauces, 0 extra fillings, and 0 extra toppings.
-Mia purchased a Sausage Roll with 0 extra sauces, 0 extra fillings, and 0 extra toppings.
-Mia purchased a Sausage Roll with 2 extra sauces, 1 extra fillings, and 2 extra toppings.
-Mia purchased a Jelly Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
-Mia purchased a Jelly Roll with 0 extra sauces, 1 extra fillings, and 2 extra toppings.
-
-====================================================================================================
-
-Cathy the CasualCustomer has arrived at the store!
-Cathy purchased a Jelly Roll with 3 extra sauce, 0 extra filling, and 2 extra toppings.
-Cathy purchased a Sausage Roll with 2 extra sauce, 1 extra filling, and 2 extra toppings.
+Boone wants to buy a Jelly Roll.
+Boone purchased a Jelly Roll with 0 extra sauce, 0 extra filling, and 2 extra toppings.
+Boone wants to buy a Pastry Roll.
+Boone purchased a Pastry Roll with 0 extra sauce, 1 extra filling, and 2 extra toppings.
 
 ====================================================================================================
 
 Mary the CasualCustomer has arrived at the store!
-Mary purchased an Egg Roll with 3 extra sauce, 0 extra filling, and 2 extra toppings.
-Mary purchased a Spring Roll with 1 extra sauces, 0 extra fillings, and 0 extra toppings.
+Mary wants to buy a Spring Roll.
+Mary purchased a Spring Roll with 1 extra sauces, 1 extra fillings, and 0 extra toppings.
 
 ====================================================================================================
 
-Chad the CasualCustomer has arrived at the store!
-Chad purchased a Sausage Roll with 1 extra sauce, 1 extra filling, and 2 extra toppings.
-Chad purchased a Spring Roll with 3 extra sauces, 0 extra fillings, and 0 extra toppings.
-
-====================================================================================================
-
-Boone the CasualCustomer has arrived at the store!
-Boone purchased a Spring Roll with 2 extra sauces, 0 extra fillings, and 0 extra toppings.
-Boone purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 2 extra toppings.
-
-====================================================================================================
-
-Amy the CateringCustomer has arrived at the store!
-
-====================================================================================================
-
-Mason the CateringCustomer has arrived at the store!
-
-====================================================================================================
-
-Jane the CasualCustomer has arrived at the store!
-Jane purchased an Egg Roll with 3 extra sauce, 1 extra filling, and 2 extra toppings.
-Jane purchased a Pastry Roll with 2 extra sauce, 1 extra filling, and 2 extra toppings.
-
-====================================================================================================
-
-Wendy the CateringCustomer has arrived at the store!
-
-====================================================================================================
-
-Oliver the BusinessCustomer has arrived at the store!
-Oliver purchased an Egg Roll with 3 extra sauces, 0 extra fillings, and 1 extra toppings.
-Oliver purchased an Egg Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
-Oliver purchased a Pastry Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
-Oliver purchased a Pastry Roll with 3 extra sauces, 0 extra fillings, and 2 extra toppings.
-Oliver purchased a Sausage Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
-Oliver purchased a Sausage Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
-Oliver purchased a Jelly Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
-Oliver purchased a Jelly Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
-
-====================================================================================================
-
-Brandon the CasualCustomer has arrived at the store!
-Brandon purchased a Jelly Roll with 1 extra sauce, 1 extra filling, and 1 extra toppings.
-Brandon purchased an Egg Roll with 2 extra sauce, 1 extra filling, and 0 extra toppings.
-
-====================================================================================================
-
-Naomi the CasualCustomer has arrived at the store!
-Naomi purchased a Sausage Roll with 1 extra sauce, 1 extra filling, and 0 extra toppings.
-Naomi purchased a Jelly Roll with 1 extra sauce, 1 extra filling, and 2 extra toppings.
-
-====================================================================================================
-
-Martin the CasualCustomer has arrived at the store!
-Martin purchased a Jelly Roll with 3 extra sauce, 1 extra filling, and 2 extra toppings.
-Martin purchased an Egg Roll with 2 extra sauce, 1 extra filling, and 0 extra toppings.
-
-====================================================================================================
-
-Today is Day 4.
-The number of spring rolls at the beginning of Day 4 is 0.
-The number of egg rolls at the beginning of Day 4 is 1.
-The number of pastry rolls at the beginning of Day 4 is 5.
-The number of sausage rolls at the beginning of Day 4 is 5.
-The number of jelly rolls at the beginning of Day 4 is 0.
+James the CasualCustomer has arrived at the store!
+James wants to buy a Jelly Roll.
+James purchased a Jelly Roll with 1 extra sauce, 0 extra filling, and 1 extra toppings.
 
 ====================================================================================================
 
 Mia the CasualCustomer has arrived at the store!
-Mia purchased a Pastry Roll with 1 extra sauce, 0 extra filling, and 2 extra toppings.
-Mia purchased a Sausage Roll with 3 extra sauce, 0 extra filling, and 1 extra toppings.
+Mia wants to buy an Egg Roll.
+Mia purchased an Egg Roll with 2 extra sauce, 1 extra filling, and 2 extra toppings.
+
+====================================================================================================
+
+Ellie the BusinessCustomer has arrived at the store!
+Ellie purchased a Spring Roll with 2 extra sauces, 0 extra fillings, and 0 extra toppings.
+Ellie purchased a Spring Roll with 0 extra sauces, 1 extra fillings, and 0 extra toppings.
+Ellie purchased an Egg Roll with 0 extra sauces, 1 extra fillings, and 0 extra toppings.
+Ellie purchased an Egg Roll with 3 extra sauces, 0 extra fillings, and 1 extra toppings.
+Ellie purchased a Pastry Roll with 2 extra sauces, 0 extra fillings, and 2 extra toppings.
+Ellie purchased a Pastry Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
+Ellie purchased a Sausage Roll with 2 extra sauces, 0 extra fillings, and 2 extra toppings.
+Ellie purchased a Sausage Roll with 2 extra sauces, 1 extra fillings, and 2 extra toppings.
+Ellie purchased a Jelly Roll with 0 extra sauces, 0 extra fillings, and 0 extra toppings.
+Ellie purchased a Jelly Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
+
+====================================================================================================
+
+Brandon the CasualCustomer has arrived at the store!
+Brandon wants to buy an Egg Roll.
+Brandon purchased an Egg Roll with 2 extra sauce, 0 extra filling, and 2 extra toppings.
+Brandon wants to buy a Spring Roll.
+Brandon purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 0 extra toppings.
+
+====================================================================================================
+
+Mason the CateringCustomer has arrived at the store!
+Mason purchased an Egg Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
+Mason purchased an Egg Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+Mason purchased an Egg Roll with 3 extra sauces, 1 extra fillings, and 2 extra toppings.
+Mason purchased an Egg Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
+Mason purchased an Egg Roll with 1 extra sauces, 1 extra fillings, and 0 extra toppings.
+Mason purchased a Pastry Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+Mason purchased a Pastry Roll with 2 extra sauces, 0 extra fillings, and 0 extra toppings.
+Mason purchased a Pastry Roll with 2 extra sauces, 0 extra fillings, and 0 extra toppings.
+Mason purchased a Pastry Roll with 1 extra sauces, 1 extra fillings, and 2 extra toppings.
+Mason purchased a Pastry Roll with 3 extra sauces, 0 extra fillings, and 0 extra toppings.
+Mason purchased a Jelly Roll with 1 extra sauces, 1 extra fillings, and 2 extra toppings.
+Mason purchased a Jelly Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
+Mason purchased a Jelly Roll with 0 extra sauces, 0 extra fillings, and 2 extra toppings.
+Mason purchased a Jelly Roll with 3 extra sauces, 0 extra fillings, and 0 extra toppings.
+Mason purchased a Jelly Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
 
 ====================================================================================================
 
 Adam the CasualCustomer has arrived at the store!
-Adam purchased a Sausage Roll with 1 extra sauce, 1 extra filling, and 2 extra toppings.
+Adam wants to buy a Jelly Roll.
+Adam purchased a Jelly Roll with 3 extra sauce, 0 extra filling, and 2 extra toppings.
+Adam wants to buy a Jelly Roll.
+Adam purchased a Jelly Roll with 2 extra sauce, 1 extra filling, and 0 extra toppings.
 
 ====================================================================================================
 
-Chad the BusinessCustomer has arrived at the store!
-Chad purchased a Pastry Roll with 1 extra sauces, 1 extra fillings, and 2 extra toppings.
-Chad purchased a Pastry Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
-Chad purchased a Sausage Roll with 0 extra sauces, 0 extra fillings, and 2 extra toppings.
-Chad purchased a Sausage Roll with 2 extra sauces, 1 extra fillings, and 1 extra toppings.
+Amy the CasualCustomer has arrived at the store!
+Amy wants to buy a Jelly Roll.
+Amy purchased a Jelly Roll with 0 extra sauce, 1 extra filling, and 0 extra toppings.
+
+====================================================================================================
+
+Naomi the CasualCustomer has arrived at the store!
+Naomi wants to buy a Spring Roll.
+Naomi purchased a Spring Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
+
+====================================================================================================
+
+Today is Day 3.
+The number of spring rolls at the beginning of Day 3 is 16.
+The number of egg rolls at the beginning of Day 3 is 12.
+The number of pastry rolls at the beginning of Day 3 is 20.
+The number of sausage rolls at the beginning of Day 3 is 9.
+The number of jelly rolls at the beginning of Day 3 is 18.
+
+====================================================================================================
+
+Mary the CasualCustomer has arrived at the store!
+Mary wants to buy a Pastry Roll.
+Mary purchased a Pastry Roll with 2 extra sauce, 1 extra filling, and 2 extra toppings.
+Mary wants to buy a Spring Roll.
+Mary purchased a Spring Roll with 1 extra sauces, 0 extra fillings, and 0 extra toppings.
+
+====================================================================================================
+
+Brandon the BusinessCustomer has arrived at the store!
+Brandon purchased a Spring Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
+Brandon purchased a Spring Roll with 2 extra sauces, 0 extra fillings, and 1 extra toppings.
+Brandon purchased an Egg Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+Brandon purchased an Egg Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+Brandon purchased a Pastry Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
+Brandon purchased a Pastry Roll with 1 extra sauces, 0 extra fillings, and 0 extra toppings.
+Brandon purchased a Sausage Roll with 3 extra sauces, 0 extra fillings, and 1 extra toppings.
+Brandon purchased a Sausage Roll with 1 extra sauces, 1 extra fillings, and 0 extra toppings.
+Brandon purchased a Jelly Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+Brandon purchased a Jelly Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
 
 ====================================================================================================
 
 Jane the CasualCustomer has arrived at the store!
-Jane purchased a Sausage Roll with 1 extra sauce, 1 extra filling, and 1 extra toppings.
+Jane wants to buy a Spring Roll.
+Jane purchased a Spring Roll with 2 extra sauces, 0 extra fillings, and 0 extra toppings.
 
 ====================================================================================================
 
-Susan the CasualCustomer has arrived at the store!
-Susan purchased an Egg Roll with 0 extra sauce, 0 extra filling, and 0 extra toppings.
-
-====================================================================================================
-
-Ellie the CasualCustomer has arrived at the store!
-Ellie purchased a Pastry Roll with 0 extra sauce, 0 extra filling, and 0 extra toppings.
-Ellie purchased a Pastry Roll with 0 extra sauce, 1 extra filling, and 1 extra toppings.
+Wendy the CasualCustomer has arrived at the store!
+Wendy wants to buy a Spring Roll.
+Wendy purchased a Spring Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
+Wendy wants to buy a Spring Roll.
+Wendy purchased a Spring Roll with 2 extra sauces, 0 extra fillings, and 2 extra toppings.
 
 ====================================================================================================
 
 Oliver the CasualCustomer has arrived at the store!
+Oliver wants to buy a Sausage Roll.
+Oliver purchased a Sausage Roll with 2 extra sauce, 0 extra filling, and 2 extra toppings.
+Oliver wants to buy a Sausage Roll.
+Oliver purchased a Sausage Roll with 3 extra sauce, 0 extra filling, and 0 extra toppings.
+
+====================================================================================================
+
+James the CasualCustomer has arrived at the store!
+James wants to buy an Egg Roll.
+James purchased an Egg Roll with 3 extra sauce, 0 extra filling, and 1 extra toppings.
+James wants to buy an Egg Roll.
+James purchased an Egg Roll with 3 extra sauce, 1 extra filling, and 1 extra toppings.
+
+====================================================================================================
+
+Susan the CasualCustomer has arrived at the store!
+Susan wants to buy a Jelly Roll.
+Susan purchased a Jelly Roll with 2 extra sauce, 0 extra filling, and 0 extra toppings.
+Susan wants to buy a Sausage Roll.
+Susan purchased a Sausage Roll with 3 extra sauce, 0 extra filling, and 1 extra toppings.
+
+====================================================================================================
+
+Karen the CasualCustomer has arrived at the store!
+Karen wants to buy a Pastry Roll.
+Karen purchased a Pastry Roll with 0 extra sauce, 0 extra filling, and 2 extra toppings.
+Karen wants to buy a Spring Roll.
+Karen purchased a Spring Roll with 0 extra sauces, 0 extra fillings, and 2 extra toppings.
+
+====================================================================================================
+
+Naomi the BusinessCustomer has arrived at the store!
+Naomi purchased a Spring Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+Naomi purchased a Spring Roll with 3 extra sauces, 0 extra fillings, and 0 extra toppings.
+Naomi purchased an Egg Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
+Naomi purchased an Egg Roll with 2 extra sauces, 0 extra fillings, and 2 extra toppings.
+Naomi purchased a Pastry Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
+Naomi purchased a Pastry Roll with 3 extra sauces, 1 extra fillings, and 0 extra toppings.
+Naomi purchased a Sausage Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+Naomi purchased a Sausage Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
+Naomi purchased a Jelly Roll with 2 extra sauces, 1 extra fillings, and 1 extra toppings.
+Naomi purchased a Jelly Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
+
+====================================================================================================
+
+Martin the CateringCustomer has arrived at the store!
+Martin purchased an Egg Roll with 1 extra sauces, 1 extra fillings, and 2 extra toppings.
+Martin purchased an Egg Roll with 0 extra sauces, 0 extra fillings, and 1 extra toppings.
+Martin purchased an Egg Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
+Martin purchased an Egg Roll with 1 extra sauces, 1 extra fillings, and 1 extra toppings.
+Martin purchased an Egg Roll with 2 extra sauces, 0 extra fillings, and 0 extra toppings.
+Martin purchased a Sausage Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
+Martin purchased a Sausage Roll with 1 extra sauces, 0 extra fillings, and 2 extra toppings.
+ATTENTION! Sausage Rolls are now currently unavailable. Sorry for the inconvenience!
+Martin purchased a Jelly Roll with 1 extra sauces, 0 extra fillings, and 0 extra toppings.
+Martin purchased a Jelly Roll with 3 extra sauces, 0 extra fillings, and 1 extra toppings.
+Martin purchased a Jelly Roll with 1 extra sauces, 1 extra fillings, and 1 extra toppings.
+Martin purchased a Jelly Roll with 1 extra sauces, 0 extra fillings, and 1 extra toppings.
+Martin purchased a Jelly Roll with 0 extra sauces, 1 extra fillings, and 1 extra toppings.
+
+====================================================================================================
+
+Mason the CasualCustomer has arrived at the store!
+Mason wants to buy a Pastry Roll.
+Mason purchased a Pastry Roll with 0 extra sauce, 0 extra filling, and 0 extra toppings.
+Mason wants to buy a Sausage Roll.
+Sausage Rolls are currently SOLD OUT! Sorry Mason!
+Mason wants to buy a Jelly Roll.
+Mason purchased a Jelly Roll with 2 extra sauce, 1 extra filling, and 1 extra toppings.
+
+====================================================================================================
+
+Amy the CasualCustomer has arrived at the store!
+Amy wants to buy a Pastry Roll.
+Amy purchased a Pastry Roll with 2 extra sauce, 0 extra filling, and 0 extra toppings.
+Amy wants to buy a Spring Roll.
+Amy purchased a Spring Roll with 3 extra sauces, 1 extra fillings, and 1 extra toppings.
+
+====================================================================================================
+
+Chad the CasualCustomer has arrived at the store!
+Chad wants to buy an Egg Roll.
+Egg Rolls are currently SOLD OUT! Sorry Chad!
+Chad wants to buy a Sausage Roll.
+Sausage Rolls are currently SOLD OUT! Sorry Chad!
+Chad wants to buy a Spring Roll.
+Chad purchased a Spring Roll with 2 extra sauces, 1 extra fillings, and 0 extra toppings.
+
+====================================================================================================
+
+Ellie the CasualCustomer has arrived at the store!
+Ellie wants to buy a Pastry Roll.
+Ellie purchased a Pastry Roll with 1 extra sauce, 1 extra filling, and 2 extra toppings.
+
+====================================================================================================
+
+Cathy the CasualCustomer has arrived at the store!
+Cathy wants to buy a Pastry Roll.
+Cathy purchased a Pastry Roll with 1 extra sauce, 0 extra filling, and 1 extra toppings.
+Cathy wants to buy a Jelly Roll.
+Cathy purchased a Jelly Roll with 2 extra sauce, 1 extra filling, and 2 extra toppings.
+
+====================================================================================================
+
+Mia the CateringCustomer has arrived at the store!
+Mia purchased an Egg Roll with 1 extra sauces, 1 extra fillings, and 1 extra toppings.
+ATTENTION! Egg Rolls are now currently unavailable. Sorry for the inconvenience!
+ATTENTION! Sausage Rolls are now currently unavailable. Sorry for the inconvenience!
