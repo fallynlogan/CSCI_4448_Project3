@@ -17,7 +17,6 @@ public class CasualCustomer extends Customer {
 
         int rollType = 0;
         int index = 0;
-        int soldOutFlag = 0;
 
         while(rollsBought<rollsWanted)
         {

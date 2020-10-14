@@ -3,9 +3,9 @@ package restaurant;
 public abstract class FoodItem {
 
     protected String rollName; protected double rollPrice;
-    protected String sauceName; protected double extraSaucePrice; int sauceQuantity;
-    protected String fillName; protected double extraFillPrice; int fillQuantity;
-    protected String toppingName; protected double extraToppingPrice; int toppingQuantity;
+    protected String sauceName; protected double extraSaucePrice; protected int sauceQuantity;
+    protected String fillName; protected double extraFillPrice; protected int fillQuantity;
+    protected String toppingName; protected double extraToppingPrice; protected int toppingQuantity;
 
     protected double totalPrice;
 

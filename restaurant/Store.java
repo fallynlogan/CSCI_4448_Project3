@@ -1,11 +1,13 @@
 package restaurant;
 
-import java.util.*; 
+import java.awt.print.Book;
+import java.util.*;
 
 public class Store {
     public Customer[] customers;
     public static HashMap<String, Integer> inventory;
-    private Integer rollStartCount = 2;
+    private int rollStartCount = 2;
+    Bookkeeper bk = new Bookkeeper();
     
 
     public Store(int numDays)
@@ -19,6 +21,8 @@ public class Store {
         inventory.put("numPastryRolls",rollStartCount);
         inventory.put("numSausageRolls", rollStartCount);
         inventory.put("numJellyRolls", rollStartCount);
+
+
 
         Menu ourMenu = new Menu();
         /*MyUnitTests unitTests = new MyUnitTests();
@@ -88,18 +92,9 @@ public class Store {
                 }
                 System.out.println("\n====================================================================================================\n"); //100 characters long to help see individual purchases clearer
             }
-            System.out.println("\nInventory at the end of Day " + i + ".");
-            System.out.println("Spring Roll Stock: " + inventory.get("numSprRolls"));
-            System.out.println("Egg Roll Stock: " + inventory.get("numEggRolls"));
-            System.out.println("Pastry Roll Stock: " + inventory.get("numPastryRolls"));
-            System.out.println("Sausage Roll Stock: " + inventory.get("numSausageRolls"));
-            System.out.println("Jelly Roll Stock: " + inventory.get("numJellyRolls"));
+
             System.out.println("\n====================================================================================================\n");
         }
-    }
-
-    public void startStore(){
-
     }
 
 }
