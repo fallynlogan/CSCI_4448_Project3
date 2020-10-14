@@ -85,14 +85,15 @@ public class Store {
                 }
                 System.out.println(customers[j].getName() + " wants to buy " + rollsWanted + " roll(s).");
                 customers[j].purchaseRolls(rollsWanted);
-                customers[j].printReceipt();
+                bk.printReceipt();
                 if(customers[j].checkInventorySoldOut()){
                     System.out.println("\n====================================================================================================\n");
                     break;
                 }
                 System.out.println("\n====================================================================================================\n"); //100 characters long to help see individual purchases clearer
             }
-
+            System.out.println("\n");
+            bk.printDailyReport(i);
             System.out.println("\n====================================================================================================\n");
         }
     }

@@ -1,17 +1,21 @@
 package restaurant;
 
-public abstract class Employee {
-    private double dailySpringSales, dailyEggSales, dailyPastrySales, dailySausageSales, dailyJellySales;
-    private int dailyTotalSpringOrders, dailyTotalEggOrders, dailyTotalPastryOrders, dailyTotalSausageOrders, dailyTotalJellyOrders;
+import java.text.DecimalFormat;
 
-    private double dailyCasualSales, dailyBusinessSales, dailyCateringSales;
-    private int casualRollOutages,businessRollOutages, cateringRollOutages;
-    private double dailyTotalSales;
+public abstract class Employee {
+    protected double dailySpringSales, dailyEggSales, dailyPastrySales, dailySausageSales, dailyJellySales;
+    protected int dailyTotalSpringOrders, dailyTotalEggOrders, dailyTotalPastryOrders, dailyTotalSausageOrders, dailyTotalJellyOrders;
+
+    protected double dailyCasualSales, dailyBusinessSales, dailyCateringSales;
+    protected int casualRollOutages,businessRollOutages, cateringRollOutages;
+    protected double dailyTotalSales;
 
     boolean earlyClosure;
 
-    private double allSpringSales, allEggSales, allPastrySales, allSausageSales, allJellySales;
-    private double lifetimeTotalSales;
+    protected double allSpringSales, allEggSales, allPastrySales, allSausageSales, allJellySales;
+    protected double lifetimeTotalSales;
+
+    public static Customer currCust;
 
     Employee(){
         dailySpringSales = 0; dailyEggSales = 0; dailyPastrySales = 0; dailySausageSales = 0; dailyJellySales = 0;
@@ -20,6 +24,32 @@ public abstract class Employee {
         dailyCasualSales = 0; dailyBusinessSales = 0; dailyCateringSales = 0;
         casualRollOutages = 0; businessRollOutages = 0; cateringRollOutages = 0;
         dailyTotalSales = 0;
+    }
+
+    public void printReceipt(){
+
+        DecimalFormat df = new DecimalFormat();
+        df.setMaximumFractionDigits(2);
+        df.setMinimumFractionDigits(2);
+
+        currCust.totalSpent = 0.0;
+        if(currCust.rollOrder.length>0){
+            System.out.println(currCust.getName() + "'s Purchase:");
+            for(int i=0 ; i<currCust.rollOrder.length ; i++){
+                System.out.println("1 " + currCust.rollOrder[i].getName() + "  @  $" + df.format(currCust.rollOrder[i].getFoodPrice()));
+                if(currCust.rollOrder[i].getFillQuantity()>0){
+                    System.out.println(currCust.rollOrder[i].getFillQuantity() + " " + currCust.rollOrder[i].getFillName() + "  @  $" + df.format(currCust.rollOrder[i].getFillPrice()));
+                }
+                if(currCust.rollOrder[i].getSauceQuantity()>0){
+                    System.out.println(currCust.rollOrder[i].getSauceQuantity() + " " + currCust.rollOrder[i].getSauceName() + "  @  $" + df.format(currCust.rollOrder[i].getSaucePrice()));
+                }
+                if(currCust.rollOrder[i].getToppingQuantity()>0){
+                    System.out.println(currCust.rollOrder[i].getToppingQuantity() + " " + currCust.rollOrder[i].getToppingName() + "  @  $" + df.format(currCust.rollOrder[i].getExtraToppingPrice()));
+                }
+                currCust.totalSpent += currCust.rollOrder[i].getTotalPriceSingleRoll();
+            }
+            System.out.println("Total = $" + df.format(currCust.totalSpent));
+        }
     }
 
     public void printDailyReport(int dayNum){
@@ -48,6 +78,7 @@ public abstract class Employee {
         System.out.println("Total Revenue for Casual Customers: " + dailyCasualSales);
         System.out.println("Total Revenue for Business Customers: " + dailyBusinessSales);
         System.out.println("Total Revenue for Catering Customers: " + dailyCateringSales);
+        System.out.println("Total Revenue for All Customers: " + (dailyCasualSales + dailyBusinessSales + dailyCateringSales));
 
         System.out.println("Total Casual Orders Affected by Roll Outages: " + casualRollOutages);
         System.out.println("Total Business Orders Affected by Roll Outages: " + businessRollOutages);

@@ -26,31 +26,7 @@ public abstract class Customer{
         return total;
     }
 
-    public void printReceipt(){
 
-        DecimalFormat df = new DecimalFormat();
-        df.setMaximumFractionDigits(2);
-        df.setMinimumFractionDigits(2);
-
-        this.totalSpent = 0.0;
-        if(rollsBought>0){
-            System.out.println(this.getName() + "'s Purchase:");
-            for(int i=0 ; i<rollsBought ; i++){
-                System.out.println("1 " + rollOrder[i].getName() + "  @  $" + df.format(rollOrder[i].getFoodPrice()));
-                if(rollOrder[i].getFillQuantity()>0){
-                    System.out.println(rollOrder[i].getFillQuantity() + " " + rollOrder[i].getFillName() + "  @  $" + df.format(rollOrder[i].getFillPrice()));
-                }
-                if(rollOrder[i].getSauceQuantity()>0){
-                    System.out.println(rollOrder[i].getSauceQuantity() + " " + rollOrder[i].getSauceName() + "  @  $" + df.format(rollOrder[i].getSaucePrice()));
-                }
-                if(rollOrder[i].getToppingQuantity()>0){
-                    System.out.println(rollOrder[i].getToppingQuantity() + " " + rollOrder[i].getToppingName() + "  @  $" + df.format(rollOrder[i].getExtraToppingPrice()));
-                }
-                totalSpent = totalSpent + rollOrder[i].getTotalPriceSingleRoll();
-            }
-            System.out.println("Total = $" + df.format(totalSpent));
-        }
-    }
 
 
     public Boolean canPurchaseRoll(String rollName, int numRolls)
