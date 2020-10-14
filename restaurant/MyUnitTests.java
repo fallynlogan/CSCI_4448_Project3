@@ -1,6 +1,6 @@
 package restaurant;
 
-import junit.framework.*;
+/*import junit.framework.*;
 
 public class MyUnitTests {
 
@@ -74,4 +74,4 @@ public class MyUnitTests {
         assertEquals(count, 30);
     }
     
-}
+}*/

@@ -22,7 +22,9 @@ public class BusinessCustomer extends Customer {
     public void purchaseRolls(int rollsWanted)
     {
         Random rand = new Random();
+
         rollOrder = new FoodItem[rollsWanted];
+        rollsBought = 0;
 
         int index = 0;
 
@@ -31,7 +33,6 @@ public class BusinessCustomer extends Customer {
         if(!isCompleteOrder()){
             System.out.println("Sorry " + this.getName() + "! The order can not be fulfilled!");
             System.out.println(this.getName() + " exits the store.");
-            this.rollsBought = 0;
         }
         else if(isCompleteOrder()){
             if(canPurchaseRoll("Spring Roll",2))
@@ -124,7 +125,7 @@ public class BusinessCustomer extends Customer {
                     System.out.println("ATTENTION! Jelly Rolls are now currently unavailable. Sorry for the inconvenience!");
                 }
             }
+            rollsBought = 10;
         }
-        this.rollsBought = 10;
     }
 }

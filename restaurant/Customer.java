@@ -1,15 +1,17 @@
 package restaurant;
 
+import java.text.DecimalFormat;
 import java.util.Random;
 
 public abstract class Customer{
     protected String name;
-    public FoodItem[] rollOrder;
+    public static FoodItem[] rollOrder;
     public int rollsBought;
     double totalSpent;
 
     public Customer() {
-
+        rollsBought = 0;
+        totalSpent = 0.0;
     }
     public String getName(){
         return name;
@@ -26,28 +28,28 @@ public abstract class Customer{
 
     public void printReceipt(){
 
+        DecimalFormat df = new DecimalFormat();
+        df.setMaximumFractionDigits(2);
+        df.setMinimumFractionDigits(2);
+
         this.totalSpent = 0.0;
         if(rollsBought>0){
-            System.out.println(this.getName() + "'s Purchase.");
+            System.out.println(this.getName() + "'s Purchase:");
             for(int i=0 ; i<rollsBought ; i++){
-                System.out.println("1 " + rollOrder[i].getName() + "  @  $" + rollOrder[i].getFoodPrice());
+                System.out.println("1 " + rollOrder[i].getName() + "  @  $" + df.format(rollOrder[i].getFoodPrice()));
                 if(rollOrder[i].getFillQuantity()>0){
-                    System.out.println(rollOrder[i].getFillQuantity() + " " + rollOrder[i].getFillName() + "  @  $" + rollOrder[i].getFillPrice());
+                    System.out.println(rollOrder[i].getFillQuantity() + " " + rollOrder[i].getFillName() + "  @  $" + df.format(rollOrder[i].getFillPrice()));
                 }
                 if(rollOrder[i].getSauceQuantity()>0){
-                    System.out.println(rollOrder[i].getSauceQuantity() + " " + rollOrder[i].getSauceName() + "  @  $" + rollOrder[i].getSaucePrice());
+                    System.out.println(rollOrder[i].getSauceQuantity() + " " + rollOrder[i].getSauceName() + "  @  $" + df.format(rollOrder[i].getSaucePrice()));
                 }
                 if(rollOrder[i].getToppingQuantity()>0){
-                    System.out.println(rollOrder[i].getToppingQuantity() + " " + rollOrder[i].getToppingName() + "  @  $" + rollOrder[i].getExtraToppingPrice());
+                    System.out.println(rollOrder[i].getToppingQuantity() + " " + rollOrder[i].getToppingName() + "  @  $" + df.format(rollOrder[i].getExtraToppingPrice()));
                 }
                 totalSpent = totalSpent + rollOrder[i].getTotalPriceSingleRoll();
             }
-            System.out.println("Total = " + totalSpent);
+            System.out.println("Total = $" + df.format(totalSpent));
         }
-        else{
-
-        }
-
     }
 
 

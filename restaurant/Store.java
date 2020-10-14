@@ -5,7 +5,7 @@ import java.util.*;
 public class Store {
     public Customer[] customers;
     public static HashMap<String, Integer> inventory;
-    private Integer rollStartCount = 10;
+    private Integer rollStartCount = 2;
     
 
     public Store(int numDays)
@@ -21,7 +21,7 @@ public class Store {
         inventory.put("numJellyRolls", rollStartCount);
 
         Menu ourMenu = new Menu();
-        MyUnitTests unitTests = new MyUnitTests();
+        /*MyUnitTests unitTests = new MyUnitTests();
         unitTests.eggRollCountTest();
         unitTests.eggRollPriceTest();
         unitTests.pastryRollCountTest();
@@ -31,7 +31,7 @@ public class Store {
         unitTests.sausageRollCountTest();
         unitTests.sausageRollPriceTest();
         unitTests.springRollCountTest();
-        unitTests.springRollPriceTest();
+        unitTests.springRollPriceTest();*/
 
         int rollsWanted = 0;
 

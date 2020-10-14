@@ -13,19 +13,20 @@ public class CasualCustomer extends Customer {
         Random rand = new Random();
 
         rollOrder = new FoodItem[rollsWanted];
+        rollsBought = 0;
 
         int rollType = 0;
         int index = 0;
         int soldOutFlag = 0;
 
-        while(index<rollsWanted)
+        while(rollsBought<rollsWanted)
         {
             rollType = rand.nextInt(5) + 1;
             int extraSauce = rand.nextInt(4);
             int extraFill = rand.nextInt(2);
             int extraTop = rand.nextInt(3);
 
-            if(rollType==1 && soldOutFlag<5)
+            if(rollType==1)
             {
                 //Spring Roll
                 System.out.println(this.getName() + " wants a Spring Roll.");
@@ -39,13 +40,13 @@ public class CasualCustomer extends Customer {
                     if(Store.inventory.get("numSprRolls")==0){
                         System.out.println("ATTENTION! Spring Rolls are now currently unavailable. Sorry for the inconvenience!");
                     }
+                    rollsBought++;
                 }
                 else{
                     System.out.println("Spring Rolls are currently SOLD OUT! Sorry " + this.getName() + "!");
-                    soldOutFlag++;
                 }
             }
-            if(rollType==2 && soldOutFlag<5)
+            else if(rollType==2)
             {
                 //Egg Roll
                 System.out.println(this.getName() + " wants an Egg Roll.");
@@ -59,13 +60,13 @@ public class CasualCustomer extends Customer {
                     if(Store.inventory.get("numEggRolls")==0){
                         System.out.println("ATTENTION! Egg Rolls are now currently unavailable. Sorry for the inconvenience!");
                     }
+                    rollsBought++;
                 }
                 else{
                     System.out.println("Egg Rolls are currently SOLD OUT! Sorry " + this.getName() + "!");
-                    soldOutFlag++;
                 }
             }
-            if(rollType==3 && soldOutFlag<5)
+            else if(rollType==3)
             {
                 //Pastry Roll
                 System.out.println(this.getName() + " wants a Pastry Roll.");
@@ -79,13 +80,13 @@ public class CasualCustomer extends Customer {
                     if(Store.inventory.get("numPastryRolls")==0){
                         System.out.println("ATTENTION! Pastry Rolls are now currently unavailable. Sorry for the inconvenience!");
                     }
+                    rollsBought++;
                 }
                 else{
                     System.out.println("Pastry Rolls are currently SOLD OUT! Sorry " + this.getName() + "!");
-                    soldOutFlag++;
                 }
             }
-            if(rollType==4 && soldOutFlag<5)
+            else if(rollType==4)
             {
                 //Sausage Roll
                 System.out.println(this.getName() + " wants a Sausage Roll.");
@@ -99,13 +100,13 @@ public class CasualCustomer extends Customer {
                     if(Store.inventory.get("numSausageRolls")==0){
                         System.out.println("ATTENTION! Sausage Rolls are now currently unavailable. Sorry for the inconvenience!");
                     }
+                    rollsBought++;
                 }
                 else{
                     System.out.println("Sausage Rolls are currently SOLD OUT! Sorry " + getName() + "!");
-                    soldOutFlag++;
                 }
             }
-            if(rollType==5 && soldOutFlag<5)
+            else if(rollType==5)
             {
                 //Jelly Roll
                 System.out.println(getName() + " wants a Jelly Roll.");
@@ -119,17 +120,12 @@ public class CasualCustomer extends Customer {
                     if(Store.inventory.get("numJellyRolls")==0){
                         System.out.println("ATTENTION! Jelly Rolls are now currently unavailable. Sorry for the inconvenience!");
                     }
+                    rollsBought++;
                 }
                 else{
                     System.out.println("Jelly Rolls are currently SOLD OUT! Sorry " + this.getName() + "!");
-                    soldOutFlag++;
                 }
             }
-            if(soldOutFlag==5){
-                break;
-            }
         }
-        this.rollsBought = index;
     }
-
 }

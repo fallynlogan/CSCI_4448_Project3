@@ -30,34 +30,34 @@ public class CateringCustomer extends Customer {
 
     private int[] possibleRolls(){
         int[] arr = new int[5];
-        if(canPurchaseRoll("SpringRoll",5)){
+        if(canPurchaseRoll("Spring Roll",5)){
             arr[0] = 5;
         }
-        if(!canPurchaseRoll("SpringRoll",5)){
+        if(!canPurchaseRoll("Spring Roll",5)){
             arr[0] = Store.inventory.get("numSprRolls");
         }
-        if(canPurchaseRoll("EggRoll",5)){
+        if(canPurchaseRoll("Egg Roll",5)){
             arr[1] = 5;
         }
-        if(!canPurchaseRoll("EggRoll",5)){
+        if(!canPurchaseRoll("Egg Roll",5)){
             arr[1] = Store.inventory.get("numEggRolls");
         }
-        if(canPurchaseRoll("PastryRoll",5)){
+        if(canPurchaseRoll("Pastry Roll",5)){
             arr[2] = 5;
         }
-        if(!canPurchaseRoll("PastryRoll",5)){
+        if(!canPurchaseRoll("Pastry Roll",5)){
             arr[2] = Store.inventory.get("numPastryRolls");
         }
-        if(canPurchaseRoll("SausageRoll",5)){
+        if(canPurchaseRoll("Sausage Roll",5)){
             arr[3] = 5;
         }
-        if(!canPurchaseRoll("SausageRoll",5)){
+        if(!canPurchaseRoll("Sausage Roll",5)){
             arr[3] = Store.inventory.get("numSausageRolls");
         }
-        if(canPurchaseRoll("JellyRoll",5)){
+        if(canPurchaseRoll("Jelly Roll",5)){
             arr[4] = 5;
         }
-        if(!canPurchaseRoll("JellyRoll",5)){
+        if(!canPurchaseRoll("Jelly Roll",5)){
             arr[4] = Store.inventory.get("numJellyRolls");
         }
         return arr;
@@ -66,6 +66,7 @@ public class CateringCustomer extends Customer {
     public void purchaseRolls(int rollsWanted)
     {
         Random rand = new Random();
+        rollsBought = 0;
 
         int extraSauce, extraFill, extraTop;
         FoodItem rollType1, rollType2, rollType3;        //Determining 3 random unique roll types by shuffling array of all roll types and picking first 3 in the array
@@ -167,7 +168,7 @@ public class CateringCustomer extends Customer {
             for(int i=0 ; i<possiblePastryRolls ; i++)
             {
                 extraSauce = rand.nextInt(4); extraFill = rand.nextInt(2); extraTop = rand.nextInt(3);
-                this.rollOrder[index] = new PastryRoll();
+                rollOrder[index] = new PastryRoll();
                 System.out.println(this.getName() +  " purchased a Pastry Roll with " + extraSauce + " extra " + rollOrder[index].getSauceName() + ", " + extraFill + " extra " + rollOrder[index].getFillName() +
                         " filling, and " + extraTop + " extra " + rollOrder[index].getToppingName() + " topping.");
                 index++;
@@ -183,7 +184,7 @@ public class CateringCustomer extends Customer {
             for(int i=0 ; i<possibleSausageRolls ; i++)
             {
                 extraSauce = rand.nextInt(4); extraFill = rand.nextInt(2); extraTop = rand.nextInt(3);
-                this.rollOrder[index] = new SausageRoll();
+                rollOrder[index] = new SausageRoll();
                 System.out.println(this.getName() +  " purchased a Sausage Roll with " + extraSauce + " extra " + rollOrder[index].getSauceName() + ", " + extraFill + " extra " + rollOrder[index].getFillName() +
                         " filling, and " + extraTop + " extra " + rollOrder[index].getToppingName() + " topping.");
                 index++;
@@ -210,6 +211,6 @@ public class CateringCustomer extends Customer {
                 System.out.println("ATTENTION! Jelly Rolls are now currently unavailable. Sorry for the inconvenience!");
             }
         }
-        this.rollsBought = index;
+        rollsBought = index;
     }
 }
