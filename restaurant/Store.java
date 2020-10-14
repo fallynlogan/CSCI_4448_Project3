@@ -5,7 +5,7 @@ import java.util.*;
 public class Store {
     public Customer[] customers;
     public static HashMap<String, Integer> inventory;
-    private Integer rollStartCount = 30;
+    private Integer rollStartCount = 10;
     
 
     public Store(int numDays)
@@ -68,17 +68,27 @@ public class Store {
                 {
                     rollsWanted = 15;
                 }
+                System.out.println(customers[j].getName() + " wants to buy " + rollsWanted + " roll(s).");
                 customers[j].purchaseRolls(rollsWanted);
+                customers[j].printReceipt();
                 if(customers[j].checkInventorySoldOut()){
                     System.out.println("\n====================================================================================================\n");
                     break;
                 }
                 System.out.println("\n====================================================================================================\n"); //100 characters long to help see individual purchases clearer
             }
-
+            System.out.println("\nInventory at the end of Day " + i + ".");
+            System.out.println("Spring Roll Stock: " + inventory.get("numSprRolls"));
+            System.out.println("Egg Roll Stock: " + inventory.get("numEggRolls"));
+            System.out.println("Pastry Roll Stock: " + inventory.get("numPastryRolls"));
+            System.out.println("Sausage Roll Stock: " + inventory.get("numSausageRolls"));
+            System.out.println("Jelly Roll Stock: " + inventory.get("numJellyRolls"));
+            System.out.println("\n====================================================================================================\n");
         }
+    }
+
+    public void startStore(){
 
     }
-    
 
 }

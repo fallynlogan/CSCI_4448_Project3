@@ -1,24 +1,39 @@
 package restaurant;
 
 public abstract class FoodItem {
-    protected String foodName;
-    protected double foodPrice;
-    protected double extraSaucePrice;
-    protected double extraFillPrice;
-    protected double extraTopPrice;
 
-    public FoodItem(String rName, double rollPrice){
-        this.foodName = rName;
-        this.foodPrice = rollPrice;
+    protected String rollName; protected double rollPrice;
+    protected String sauceName; protected double extraSaucePrice; int sauceQuantity;
+    protected String fillName; protected double extraFillPrice; int fillQuantity;
+    protected String toppingName; protected double extraToppingPrice; int toppingQuantity;
+
+    protected double totalPrice;
+
+    public FoodItem(String rName, double rollP){
+        this.rollName = rName;
+        this.rollPrice = rollP;
+        this.totalPrice = rollP;
     }
 
     public String getName()
     {
-        return foodName;
+        return rollName;
     }
-
     public double getFoodPrice(){
-        return foodPrice;
+        return rollPrice;
+    }
+    public String getSauceName() { return sauceName; }
+    public double getSaucePrice() { return extraSaucePrice; }
+    public int getSauceQuantity() { return sauceQuantity; }
+    public String getFillName() { return fillName; }
+    public double getFillPrice() { return extraFillPrice; }
+    public int getFillQuantity() { return fillQuantity; }
+    public String getToppingName() { return toppingName; }
+    public double getExtraToppingPrice() { return extraToppingPrice; }
+    public int getToppingQuantity() { return toppingQuantity; }
+
+    public double getTotalPriceSingleRoll(){
+        return rollPrice + (sauceQuantity*extraSaucePrice) + (toppingQuantity*extraToppingPrice) + (fillQuantity*extraFillPrice);
     }
 
 

@@ -4,6 +4,10 @@ import java.util.Random;
 
 public abstract class Customer{
     protected String name;
+    public FoodItem[] rollOrder;
+    public int rollsBought;
+    double totalSpent;
+
     public Customer() {
 
     }
@@ -11,31 +15,67 @@ public abstract class Customer{
         return name;
     }
 
+    public double calculateTotalOrderPrice(){
+        double total = 0.0;
+        rollsBought = 0;
+        for(int i=0 ; i<rollsBought ; i++){
+            total = total + rollOrder[i].getTotalPriceSingleRoll();
+        }
+        return total;
+    }
+
+    public void printReceipt(){
+
+        this.totalSpent = 0.0;
+        if(rollsBought>0){
+            System.out.println(this.getName() + "'s Purchase.");
+            for(int i=0 ; i<rollsBought ; i++){
+                System.out.println("1 " + rollOrder[i].getName() + "  @  $" + rollOrder[i].getFoodPrice());
+                if(rollOrder[i].getFillQuantity()>0){
+                    System.out.println(rollOrder[i].getFillQuantity() + " " + rollOrder[i].getFillName() + "  @  $" + rollOrder[i].getFillPrice());
+                }
+                if(rollOrder[i].getSauceQuantity()>0){
+                    System.out.println(rollOrder[i].getSauceQuantity() + " " + rollOrder[i].getSauceName() + "  @  $" + rollOrder[i].getSaucePrice());
+                }
+                if(rollOrder[i].getToppingQuantity()>0){
+                    System.out.println(rollOrder[i].getToppingQuantity() + " " + rollOrder[i].getToppingName() + "  @  $" + rollOrder[i].getExtraToppingPrice());
+                }
+                totalSpent = totalSpent + rollOrder[i].getTotalPriceSingleRoll();
+            }
+            System.out.println("Total = " + totalSpent);
+        }
+        else{
+
+        }
+
+    }
+
+
     public Boolean canPurchaseRoll(String rollName, int numRolls)
     {
         Boolean x = false;
-        if(rollName == "EggRoll") {
+        if(rollName == "Egg Roll") {
             if (Store.inventory.get("numEggRolls")-numRolls >= 0) {
                 x = true;
             }
         }
 
-        if(rollName =="SpringRoll"){
+        if(rollName =="Spring Roll"){
             if(Store.inventory.get("numSprRolls")-numRolls >= 0){
                 x = true;
             }
         }
-        if(rollName =="PastryRoll") {
+        if(rollName =="Pastry Roll") {
             if(Store.inventory.get("numPastryRolls")-numRolls >= 0) {
                 x = true;
             }
         }
-        if(rollName =="SausageRoll"){
+        if(rollName =="Sausage Roll"){
             if(Store.inventory.get("numSausageRolls")-numRolls >= 0) {
                 x = true;
             }
         }
-        if(rollName =="JellyRoll") {
+        if(rollName =="Jelly Roll") {
             if(Store.inventory.get("numJellyRolls")-numRolls >= 0) {
                 x = true;
             }
@@ -43,25 +83,6 @@ public abstract class Customer{
         return x;
     }
 
-    public Boolean isSoldOut(String rollName) {
-        Boolean x = false;
-        if(rollName=="SpringRoll"){
-            if(Store.inventory.get("numSprRolls")==0){ x = true; }
-        }
-        if(rollName=="EggRoll"){
-            if(Store.inventory.get("numEggRolls")==0){ x = true; }
-        }
-        if(rollName=="PastryRoll") {
-            if (Store.inventory.get("numPastryRolls") == 0) { x = true; }
-        }
-        if(rollName=="SausageRoll"){
-            if(Store.inventory.get("numSausageRolls")==0){ x = true; }
-        }
-        if(rollName=="JellyRoll"){
-            if(Store.inventory.get("numJellyRolls")==0){ x = true; }
-        }
-        return x;
-    }
 
     public Boolean checkInventorySoldOut()
     {
